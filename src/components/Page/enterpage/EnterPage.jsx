@@ -1,17 +1,17 @@
 import React, { useEffect, useState } from "react"
 import { useParams } from "react-router-dom"
-import { hero } from "../../dummyData"
-import Side from "../home/sideContent/side/Side"
-import "../home/mainContent/homes/style.css"
-import "./singlepage.css"
-import "../home/sideContent/side/side.css"
+import { contentEnter } from "../../../dummyData"
+import Side from "../../home/sideContent/side/Side"
+import "../../home/mainContent/homes/style.css"
+import "./enterpage.css"
+import "../../home/sideContent/side/side.css"
 
-const SinglePage = () => {
+const EnterPage = () => {
   const { id } = useParams()
   const [item, setItem] = useState(null)
 
   useEffect(() => {
-    const item = hero.find((item) => item.id === parseInt(id))
+    const item = contentEnter.find((item) => item.id === parseInt(id))
     window.scrollTo(0, 0)
     if (item) {
       setItem(item)
@@ -51,7 +51,7 @@ const SinglePage = () => {
               </div>
 
               <div className='desctop'>
-                {item.desc.map((val) => {
+                {item.desclengkap.map((val) => {
                   return (
                     <>
                       <p>{val.para1}</p>
@@ -61,7 +61,7 @@ const SinglePage = () => {
                 })}
               </div>
               <img src={item.cover} alt='' />
-              {item.desc.map((val) => (
+              {item.desclengkap.map((val) => (
                 <p>{val.para3}</p>
               ))}
 
@@ -106,4 +106,4 @@ const SinglePage = () => {
   )
 }
 
-export default SinglePage
+export default EnterPage

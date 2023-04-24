@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from "react"
 import { useParams } from "react-router-dom"
-import { popular } from "../../dummyData"
-import Side from "../home/sideContent/side/Side"
-import "../home/mainContent/homes/style.css"
+import { popular } from "../../../dummyData"
+import Side from "../../home/sideContent/side/Side"
+import "../../home/mainContent/homes/style.css"
 import "./secondpage.css"
-import "../home/sideContent/side/side.css"
+import "../../home/sideContent/side/side.css"
 
 const SecondPage = () => {
   const { id } = useParams()

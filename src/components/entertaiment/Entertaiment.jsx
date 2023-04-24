@@ -1,5 +1,6 @@
 import React from 'react'
 import Heroenter from "./heroenter/Heroenter"
+import HomeEnter from './mainEnter/home/HomeEnter'
 
 const Entertaiment = () => {
   return (
@@ -7,6 +8,7 @@ const Entertaiment = () => {
     <section className='enteraiment'>
     <div className='container paddingTB'>
       <Heroenter />
+      <HomeEnter/>
     </div>
     </section>
   </>

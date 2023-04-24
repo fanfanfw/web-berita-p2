@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from "react"
 import { useParams } from "react-router-dom"
-import { ppost } from "../../dummyData"
-import Side from "../home/sideContent/side/Side"
-import "../home/mainContent/homes/style.css"
+import { ppost } from "../../../dummyData"
+import Side from "../../home/sideContent/side/Side"
+import "../../home/mainContent/homes/style.css"
 import "./thirdpage.css"
-import "../home/sideContent/side/side.css"
+import "../../home/sideContent/side/side.css"
 
 const ThirdPage = () => {
   const { id } = useParams()

@@ -1,13 +1,13 @@
 import React from "react"
-import "./music.css"
+import "./contententer.css"
 import Slider from "react-slick"
 import Heading from "../../../common/heading/Heading"
-import { music } from "../../../../dummyData"
+import { contentEnter } from "../../../../dummyData"
 import "slick-carousel/slick/slick.css"
 import "slick-carousel/slick/slick-theme.css"
 import { Link } from "react-router-dom"
 
-const Music = () => {
+const ContentEnter = () => {
   const settings = {
     className: "center",
     centerMode: true,
@@ -15,17 +15,17 @@ const Music = () => {
     centerPadding: "0",
     slidesToShow: 1,
     speed: 500,
-    rows: 4,
+    rows: 5,
     slidesPerRow: 1,
   }
   return (
     <>
       <section className='music'>
-        <Heading title='Music News' />
+        <Heading title='Entertaiment' />
         <div className='content'>
         <Slider {...settings}>
-            {music
-              .filter((val) => val.catgeory === "music")
+            {contentEnter
+              .filter((val) => val.catgeory === "Entertaiment")
               .map((val) => {
                 return (
                   <div className='items'>
@@ -39,7 +39,7 @@ const Music = () => {
                         </div>
                       </div>
                       <div className='text'>
-                      <Link to={`/FourthPage/${val.id}`}>
+                      <Link to={`/EnterPage/${val.id}`}>
                         <h1 className='title'>{val.title.slice(0, 40)}...</h1>
                         </Link>
                         <div className='date'>
@@ -65,4 +65,4 @@ const Music = () => {
   )
 }
 
-export default Music
+export default ContentEnter

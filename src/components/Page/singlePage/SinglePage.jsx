@@ -1,17 +1,17 @@
 import React, { useEffect, useState } from "react"
 import { useParams } from "react-router-dom"
-import { music } from "../../dummyData"
-import Side from "../home/sideContent/side/Side"
-import "../home/mainContent/homes/style.css"
-import "./fourthpage.css"
-import "../home/sideContent/side/side.css"
+import { hero } from "../../../dummyData"
+import Side from "../../home/sideContent/side/Side"
+import "../../home/mainContent/homes/style.css"
+import "./singlepage.css"
+import "../../home/sideContent/side/side.css"
 
-const FourthPage = () => {
+const SinglePage = () => {
   const { id } = useParams()
   const [item, setItem] = useState(null)
 
   useEffect(() => {
-    const item = music.find((item) => item.id === parseInt(id))
+    const item = hero.find((item) => item.id === parseInt(id))
     window.scrollTo(0, 0)
     if (item) {
       setItem(item)
@@ -106,4 +106,4 @@ const FourthPage = () => {
   )
 }
 
-export default FourthPage
+export default SinglePage
