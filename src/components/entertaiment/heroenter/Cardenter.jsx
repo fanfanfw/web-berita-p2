@@ -10,7 +10,7 @@ const Cardenter = ({ item: { id, cover, catgeory, title, authorName, time } }) =
         </div>
         <div className='text'>
           <span className='category'>{catgeory}</span>
-          <Link to={`/SecondPage/${id}`}>
+          <Link to={`/EnterPage1/${id}`}>
             <h1 className='titleBg'>{title}</h1>
           </Link>
           <div className='author flex'>

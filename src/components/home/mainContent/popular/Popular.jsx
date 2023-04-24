@@ -48,7 +48,7 @@ const Popular = () => {
                       </div>
                     </div>
                     <div className='text row'>
-          <Link to={`/ThirdPage/${val.id}`}>
+          <Link to={`/SecondPage/${val.id}`}>
                       <h1 className='title'>{val.title.slice(0, 40)}...</h1>
                       </Link>
                       <div className='date'>

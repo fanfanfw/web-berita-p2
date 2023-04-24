@@ -29,9 +29,6 @@ const Header = () => {
                 <Link to='/bolansports'>Bola & Sports</Link>
               </li>
               <li>
-                <Link to='/otomotif'>Otomotif</Link>
-              </li>
-              <li>
                 <Link to='/foodntravel'>Food & Travel</Link>
               </li>
             </ul>

@@ -3,10 +3,10 @@ import { useParams } from "react-router-dom"
 import { heroenter } from "../../dummyData"
 import Side from "../home/sideContent/side/Side"
 import "../home/mainContent/homes/style.css"
-import "./secondpage.css"
+import "./enterpage1.css"
 import "../home/sideContent/side/side.css"
 
-const SecondPage = () => {
+const EnterPage1 = () => {
   const { id } = useParams()
   const [item, setItem] = useState(null)
 
@@ -106,4 +106,4 @@ const SecondPage = () => {
   )
 }
 
-export default SecondPage
+export default EnterPage1

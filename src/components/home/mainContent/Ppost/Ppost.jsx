@@ -3,6 +3,8 @@ import Slider from "react-slick"
 import { ppost } from "../../../../dummyData"
 import Heading from "../../../common/heading/Heading"
 import "./ppost.css"
+import { Link } from "react-router-dom"
+
 
 // copy same code of popular
 const Ppost = () => {
@@ -32,7 +34,9 @@ const Ppost = () => {
                       </div>
                     </div>
                     <div className='text'>
+                    <Link to={`/ThirdPage/${val.id}`}>
                       <h1 className='title'>{val.title.slice(0, 40)}...</h1>
+                      </Link>
                       <div className='date'>
                         <i class='fas fa-calendar-days'></i>
                         <label>{val.date}</label>

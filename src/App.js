@@ -5,9 +5,11 @@ import Homepages from "./components/home/Homepages"
 import Footer from "./components/common/footer/Footer"
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom"
 import SinglePage from "./components/singlePage/SinglePage"
-import SecondPage from "./components/secondPage/SecondPage"
+import EnterPage1 from "./components/enterpage1/EnterPage1"
 import Entertaiment from "./components/entertaiment/Entertaiment"
-import ThirdPage from "./components/secondPage/ThirdPage"
+import SecondPage from "./components/secondpage/SecondPage"
+import ThirdPage from "./components/thirdpage/ThirdPage"
+
 
 const App = () => {
   return (
@@ -16,10 +18,11 @@ const App = () => {
         <Header />
         <Switch>
           <Route exact path='/' component={Homepages} />
-          <Route path='/singlepage/:id' exact component={SinglePage} />
-          <Route path='/secondpage/:id' exact component={SecondPage} />
-          <Route path='/secondpage/:id' exact component={ThirdPage} />
           <Route exact path='/entertaiment' component={Entertaiment} />
+          <Route path='/singlepage/:id' exact component={SinglePage} />
+          <Route path='/enterpage1/:id' exact component={EnterPage1} />
+          <Route path='/secondpage/:id' exact component={SecondPage} />
+          <Route path='/thirdpage/:id' exact component={ThirdPage} />
         </Switch>
         <Footer />
       </Router>

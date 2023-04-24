@@ -330,411 +330,447 @@ export const world = [
 export const popular = [
   {
     id: 1,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
-    title: "kamu kalau kaya mau ga anaknya 7?",
+    cover: "../images/popular/popu1.jpg",
+    catgeory: "sosial",
+    title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
-    time: "5 Jun - 2022",
+    time: "23 Maret 2023 11:30",
+    date: "23 Maret 2023",
+    comments: 32,
     desc: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: "Peneliti Badan Riset dan Inovasi Nasional (BRIN) Andi Pangerang Hasanuddin berkomentar soal Muhammadiyah yang tidak sejalan dengan pemerintah terkait perbedaan penentuan Hari Raya Idul Fitri 1444 Hijriyah. ",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Dia berkomentar di unggahan Facebook milik peneliti BRIN Prof Thomas Djamaluddin. Thomas menulis komentar terkait perbedaan Lebaran. .",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: "Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: '"Eh, masih minta difasilitasi tempat sholat Id. Pemerintah pun memberikan fasilitas," tulis Thomas. Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.' },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: '"Perlu saya halalkan gak nih darahnya semua Muhammadiyah? Apalagi Muhammadiyah yang disusupi Hizbut Tahrir melalui agenda kalender Islam global dari Gema Pembebasan? Banyak bacot emang!!! Sini saya bunuh kalian satu-satu. Silakan laporkan komen saya dengan ancaman pasal pembunuhan! Saya siap dipenjara. Saya capek lihat pergaduhan kalian," kata Andi.',
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: 'Thomas  yang merupakan mantan kepala Lembaga Penerbangan dan Antariksa Nasional (Lapan) itu membenarkan bahwa komentar tersebut berasal dari unggahan di akun Facebooknya. Dia juga mengatakan AP Hasanuddin merupakan peneliti BRIN."AP Hasanuddin itu junior saya di BRIN. Dia membalas komentar saya," ucap Thomas saat dikonfirmas',
+      },
+      {
+        para3: 'Thomas mengatakan saat ini sedang mengecek unggahan yang dikomentari dia dan AP Hasanuddin untuk mengetahui konteksnya. "Saya masih cari-cari ini diunggahan apa, tapi belum ketemu," jelasnya."',
       },
     ],
   },
   {
-    id: 2,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
-    title: "kamu kalau kaya mau ga anaknya 7?",
+    id: 1,
+    cover: "../images/popular/popu1.jpg",
+    catgeory: "sosial",
+    title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
-    time: "5 Jun - 2022",
+    time: "23 Maret 2023 11:30",
+    date: "23 Maret 2023",
+    comments: 32,
     desc: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: "Peneliti Badan Riset dan Inovasi Nasional (BRIN) Andi Pangerang Hasanuddin berkomentar soal Muhammadiyah yang tidak sejalan dengan pemerintah terkait perbedaan penentuan Hari Raya Idul Fitri 1444 Hijriyah. ",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Dia berkomentar di unggahan Facebook milik peneliti BRIN Prof Thomas Djamaluddin. Thomas menulis komentar terkait perbedaan Lebaran. .",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: "Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: '"Eh, masih minta difasilitasi tempat sholat Id. Pemerintah pun memberikan fasilitas," tulis Thomas. Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.' },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: '"Perlu saya halalkan gak nih darahnya semua Muhammadiyah? Apalagi Muhammadiyah yang disusupi Hizbut Tahrir melalui agenda kalender Islam global dari Gema Pembebasan? Banyak bacot emang!!! Sini saya bunuh kalian satu-satu. Silakan laporkan komen saya dengan ancaman pasal pembunuhan! Saya siap dipenjara. Saya capek lihat pergaduhan kalian," kata Andi.',
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: 'Thomas  yang merupakan mantan kepala Lembaga Penerbangan dan Antariksa Nasional (Lapan) itu membenarkan bahwa komentar tersebut berasal dari unggahan di akun Facebooknya. Dia juga mengatakan AP Hasanuddin merupakan peneliti BRIN."AP Hasanuddin itu junior saya di BRIN. Dia membalas komentar saya," ucap Thomas saat dikonfirmas',
+      },
+      {
+        para3: 'Thomas mengatakan saat ini sedang mengecek unggahan yang dikomentari dia dan AP Hasanuddin untuk mengetahui konteksnya. "Saya masih cari-cari ini diunggahan apa, tapi belum ketemu," jelasnya."',
       },
     ],
   },
   {
-    id: 3,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
-    title: "kamu kalau kaya mau ga anaknya 7?",
+    id: 1,
+    cover: "../images/popular/popu1.jpg",
+    catgeory: "sosial",
+    title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
-    time: "5 Jun - 2022",
+    time: "23 Maret 2023 11:30",
+    date: "23 Maret 2023",
+    comments: 32,
     desc: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: "Peneliti Badan Riset dan Inovasi Nasional (BRIN) Andi Pangerang Hasanuddin berkomentar soal Muhammadiyah yang tidak sejalan dengan pemerintah terkait perbedaan penentuan Hari Raya Idul Fitri 1444 Hijriyah. ",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Dia berkomentar di unggahan Facebook milik peneliti BRIN Prof Thomas Djamaluddin. Thomas menulis komentar terkait perbedaan Lebaran. .",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: "Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: '"Eh, masih minta difasilitasi tempat sholat Id. Pemerintah pun memberikan fasilitas," tulis Thomas. Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.' },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: '"Perlu saya halalkan gak nih darahnya semua Muhammadiyah? Apalagi Muhammadiyah yang disusupi Hizbut Tahrir melalui agenda kalender Islam global dari Gema Pembebasan? Banyak bacot emang!!! Sini saya bunuh kalian satu-satu. Silakan laporkan komen saya dengan ancaman pasal pembunuhan! Saya siap dipenjara. Saya capek lihat pergaduhan kalian," kata Andi.',
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: 'Thomas  yang merupakan mantan kepala Lembaga Penerbangan dan Antariksa Nasional (Lapan) itu membenarkan bahwa komentar tersebut berasal dari unggahan di akun Facebooknya. Dia juga mengatakan AP Hasanuddin merupakan peneliti BRIN."AP Hasanuddin itu junior saya di BRIN. Dia membalas komentar saya," ucap Thomas saat dikonfirmas',
+      },
+      {
+        para3: 'Thomas mengatakan saat ini sedang mengecek unggahan yang dikomentari dia dan AP Hasanuddin untuk mengetahui konteksnya. "Saya masih cari-cari ini diunggahan apa, tapi belum ketemu," jelasnya."',
       },
     ],
   },
   {
-    id: 4,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
-    title: "kamu kalau kaya mau ga anaknya 7?",
+    id: 1,
+    cover: "../images/popular/popu1.jpg",
+    catgeory: "sosial",
+    title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
-    time: "5 Jun - 2022",
+    time: "23 Maret 2023 11:30",
+    date: "23 Maret 2023",
+    comments: 32,
     desc: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: "Peneliti Badan Riset dan Inovasi Nasional (BRIN) Andi Pangerang Hasanuddin berkomentar soal Muhammadiyah yang tidak sejalan dengan pemerintah terkait perbedaan penentuan Hari Raya Idul Fitri 1444 Hijriyah. ",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Dia berkomentar di unggahan Facebook milik peneliti BRIN Prof Thomas Djamaluddin. Thomas menulis komentar terkait perbedaan Lebaran. .",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: "Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: '"Eh, masih minta difasilitasi tempat sholat Id. Pemerintah pun memberikan fasilitas," tulis Thomas. Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.' },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: '"Perlu saya halalkan gak nih darahnya semua Muhammadiyah? Apalagi Muhammadiyah yang disusupi Hizbut Tahrir melalui agenda kalender Islam global dari Gema Pembebasan? Banyak bacot emang!!! Sini saya bunuh kalian satu-satu. Silakan laporkan komen saya dengan ancaman pasal pembunuhan! Saya siap dipenjara. Saya capek lihat pergaduhan kalian," kata Andi.',
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: 'Thomas  yang merupakan mantan kepala Lembaga Penerbangan dan Antariksa Nasional (Lapan) itu membenarkan bahwa komentar tersebut berasal dari unggahan di akun Facebooknya. Dia juga mengatakan AP Hasanuddin merupakan peneliti BRIN."AP Hasanuddin itu junior saya di BRIN. Dia membalas komentar saya," ucap Thomas saat dikonfirmas',
+      },
+      {
+        para3: 'Thomas mengatakan saat ini sedang mengecek unggahan yang dikomentari dia dan AP Hasanuddin untuk mengetahui konteksnya. "Saya masih cari-cari ini diunggahan apa, tapi belum ketemu," jelasnya."',
       },
     ],
   },
   {
-    id: 5,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
-    title: "kamu kalau kaya mau ga anaknya 7?",
+    id: 1,
+    cover: "../images/popular/popu1.jpg",
+    catgeory: "sosial",
+    title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
-    time: "5 Jun - 2022",
+    time: "23 Maret 2023 11:30",
+    date: "23 Maret 2023",
+    comments: 32,
     desc: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: "Peneliti Badan Riset dan Inovasi Nasional (BRIN) Andi Pangerang Hasanuddin berkomentar soal Muhammadiyah yang tidak sejalan dengan pemerintah terkait perbedaan penentuan Hari Raya Idul Fitri 1444 Hijriyah. ",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Dia berkomentar di unggahan Facebook milik peneliti BRIN Prof Thomas Djamaluddin. Thomas menulis komentar terkait perbedaan Lebaran. .",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: "Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: '"Eh, masih minta difasilitasi tempat sholat Id. Pemerintah pun memberikan fasilitas," tulis Thomas. Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.' },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: '"Perlu saya halalkan gak nih darahnya semua Muhammadiyah? Apalagi Muhammadiyah yang disusupi Hizbut Tahrir melalui agenda kalender Islam global dari Gema Pembebasan? Banyak bacot emang!!! Sini saya bunuh kalian satu-satu. Silakan laporkan komen saya dengan ancaman pasal pembunuhan! Saya siap dipenjara. Saya capek lihat pergaduhan kalian," kata Andi.',
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: 'Thomas  yang merupakan mantan kepala Lembaga Penerbangan dan Antariksa Nasional (Lapan) itu membenarkan bahwa komentar tersebut berasal dari unggahan di akun Facebooknya. Dia juga mengatakan AP Hasanuddin merupakan peneliti BRIN."AP Hasanuddin itu junior saya di BRIN. Dia membalas komentar saya," ucap Thomas saat dikonfirmas',
+      },
+      {
+        para3: 'Thomas mengatakan saat ini sedang mengecek unggahan yang dikomentari dia dan AP Hasanuddin untuk mengetahui konteksnya. "Saya masih cari-cari ini diunggahan apa, tapi belum ketemu," jelasnya."',
       },
     ],
   },
   {
-    id: 6,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
-    title: "kamu kalau kaya mau ga anaknya 7?",
+    id: 1,
+    cover: "../images/popular/popu1.jpg",
+    catgeory: "sosial",
+    title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
-    time: "5 Jun - 2022",
+    time: "23 Maret 2023 11:30",
+    date: "23 Maret 2023",
+    comments: 32,
     desc: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: "Peneliti Badan Riset dan Inovasi Nasional (BRIN) Andi Pangerang Hasanuddin berkomentar soal Muhammadiyah yang tidak sejalan dengan pemerintah terkait perbedaan penentuan Hari Raya Idul Fitri 1444 Hijriyah. ",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Dia berkomentar di unggahan Facebook milik peneliti BRIN Prof Thomas Djamaluddin. Thomas menulis komentar terkait perbedaan Lebaran. .",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: "Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: '"Eh, masih minta difasilitasi tempat sholat Id. Pemerintah pun memberikan fasilitas," tulis Thomas. Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.' },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: '"Perlu saya halalkan gak nih darahnya semua Muhammadiyah? Apalagi Muhammadiyah yang disusupi Hizbut Tahrir melalui agenda kalender Islam global dari Gema Pembebasan? Banyak bacot emang!!! Sini saya bunuh kalian satu-satu. Silakan laporkan komen saya dengan ancaman pasal pembunuhan! Saya siap dipenjara. Saya capek lihat pergaduhan kalian," kata Andi.',
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: 'Thomas  yang merupakan mantan kepala Lembaga Penerbangan dan Antariksa Nasional (Lapan) itu membenarkan bahwa komentar tersebut berasal dari unggahan di akun Facebooknya. Dia juga mengatakan AP Hasanuddin merupakan peneliti BRIN."AP Hasanuddin itu junior saya di BRIN. Dia membalas komentar saya," ucap Thomas saat dikonfirmas',
+      },
+      {
+        para3: 'Thomas mengatakan saat ini sedang mengecek unggahan yang dikomentari dia dan AP Hasanuddin untuk mengetahui konteksnya. "Saya masih cari-cari ini diunggahan apa, tapi belum ketemu," jelasnya."',
       },
     ],
   },
   {
-    id: 7,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
-    title: "kamu kalau kaya mau ga anaknya 7?",
+    id: 1,
+    cover: "../images/popular/popu1.jpg",
+    catgeory: "sosial",
+    title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
-    time: "25 June 2023",
-    date: "25 June 2023",
+    time: "23 Maret 2023 11:30",
+    date: "23 Maret 2023",
+    comments: 32,
     desc: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: "Peneliti Badan Riset dan Inovasi Nasional (BRIN) Andi Pangerang Hasanuddin berkomentar soal Muhammadiyah yang tidak sejalan dengan pemerintah terkait perbedaan penentuan Hari Raya Idul Fitri 1444 Hijriyah. ",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Dia berkomentar di unggahan Facebook milik peneliti BRIN Prof Thomas Djamaluddin. Thomas menulis komentar terkait perbedaan Lebaran. .",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: "Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: '"Eh, masih minta difasilitasi tempat sholat Id. Pemerintah pun memberikan fasilitas," tulis Thomas. Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.' },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: '"Perlu saya halalkan gak nih darahnya semua Muhammadiyah? Apalagi Muhammadiyah yang disusupi Hizbut Tahrir melalui agenda kalender Islam global dari Gema Pembebasan? Banyak bacot emang!!! Sini saya bunuh kalian satu-satu. Silakan laporkan komen saya dengan ancaman pasal pembunuhan! Saya siap dipenjara. Saya capek lihat pergaduhan kalian," kata Andi.',
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: 'Thomas  yang merupakan mantan kepala Lembaga Penerbangan dan Antariksa Nasional (Lapan) itu membenarkan bahwa komentar tersebut berasal dari unggahan di akun Facebooknya. Dia juga mengatakan AP Hasanuddin merupakan peneliti BRIN."AP Hasanuddin itu junior saya di BRIN. Dia membalas komentar saya," ucap Thomas saat dikonfirmas',
+      },
+      {
+        para3: 'Thomas mengatakan saat ini sedang mengecek unggahan yang dikomentari dia dan AP Hasanuddin untuk mengetahui konteksnya. "Saya masih cari-cari ini diunggahan apa, tapi belum ketemu," jelasnya."',
       },
     ],
   },
   {
-    id: 8,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
-    title: "kamu kalau kaya mau ga anaknya 7?",
+    id: 1,
+    cover: "../images/popular/popu1.jpg",
+    catgeory: "sosial",
+    title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
-    time: "25 June 2023",
-    date: "25 June 2023",
+    time: "23 Maret 2023 11:30",
+    date: "23 Maret 2023",
+    comments: 32,
     desc: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: "Peneliti Badan Riset dan Inovasi Nasional (BRIN) Andi Pangerang Hasanuddin berkomentar soal Muhammadiyah yang tidak sejalan dengan pemerintah terkait perbedaan penentuan Hari Raya Idul Fitri 1444 Hijriyah. ",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Dia berkomentar di unggahan Facebook milik peneliti BRIN Prof Thomas Djamaluddin. Thomas menulis komentar terkait perbedaan Lebaran. .",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: "Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: '"Eh, masih minta difasilitasi tempat sholat Id. Pemerintah pun memberikan fasilitas," tulis Thomas. Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.' },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: '"Perlu saya halalkan gak nih darahnya semua Muhammadiyah? Apalagi Muhammadiyah yang disusupi Hizbut Tahrir melalui agenda kalender Islam global dari Gema Pembebasan? Banyak bacot emang!!! Sini saya bunuh kalian satu-satu. Silakan laporkan komen saya dengan ancaman pasal pembunuhan! Saya siap dipenjara. Saya capek lihat pergaduhan kalian," kata Andi.',
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: 'Thomas  yang merupakan mantan kepala Lembaga Penerbangan dan Antariksa Nasional (Lapan) itu membenarkan bahwa komentar tersebut berasal dari unggahan di akun Facebooknya. Dia juga mengatakan AP Hasanuddin merupakan peneliti BRIN."AP Hasanuddin itu junior saya di BRIN. Dia membalas komentar saya," ucap Thomas saat dikonfirmas',
+      },
+      {
+        para3: 'Thomas mengatakan saat ini sedang mengecek unggahan yang dikomentari dia dan AP Hasanuddin untuk mengetahui konteksnya. "Saya masih cari-cari ini diunggahan apa, tapi belum ketemu," jelasnya."',
       },
     ],
   },
   {
-    id: 9,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
-    title: "kamu kalau kaya mau ga anaknya 7?",
+    id: 1,
+    cover: "../images/popular/popu1.jpg",
+    catgeory: "sosial",
+    title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
-    time: "25 June 2023",
-    date: "25 June 2023",
+    time: "23 Maret 2023 11:30",
+    date: "23 Maret 2023",
+    comments: 32,
     desc: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: "Peneliti Badan Riset dan Inovasi Nasional (BRIN) Andi Pangerang Hasanuddin berkomentar soal Muhammadiyah yang tidak sejalan dengan pemerintah terkait perbedaan penentuan Hari Raya Idul Fitri 1444 Hijriyah. ",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Dia berkomentar di unggahan Facebook milik peneliti BRIN Prof Thomas Djamaluddin. Thomas menulis komentar terkait perbedaan Lebaran. .",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: "Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: '"Eh, masih minta difasilitasi tempat sholat Id. Pemerintah pun memberikan fasilitas," tulis Thomas. Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.' },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: '"Perlu saya halalkan gak nih darahnya semua Muhammadiyah? Apalagi Muhammadiyah yang disusupi Hizbut Tahrir melalui agenda kalender Islam global dari Gema Pembebasan? Banyak bacot emang!!! Sini saya bunuh kalian satu-satu. Silakan laporkan komen saya dengan ancaman pasal pembunuhan! Saya siap dipenjara. Saya capek lihat pergaduhan kalian," kata Andi.',
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: 'Thomas  yang merupakan mantan kepala Lembaga Penerbangan dan Antariksa Nasional (Lapan) itu membenarkan bahwa komentar tersebut berasal dari unggahan di akun Facebooknya. Dia juga mengatakan AP Hasanuddin merupakan peneliti BRIN."AP Hasanuddin itu junior saya di BRIN. Dia membalas komentar saya," ucap Thomas saat dikonfirmas',
+      },
+      {
+        para3: 'Thomas mengatakan saat ini sedang mengecek unggahan yang dikomentari dia dan AP Hasanuddin untuk mengetahui konteksnya. "Saya masih cari-cari ini diunggahan apa, tapi belum ketemu," jelasnya."',
       },
     ],
   },
   {
-    id: 10,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
-    title: "kamu kalau kaya mau ga anaknya 7?",
+    id: 1,
+    cover: "../images/popular/popu1.jpg",
+    catgeory: "sosial",
+    title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
-    time: "25 June 2023",
-    date: "25 June 2023",
+    time: "23 Maret 2023 11:30",
+    date: "23 Maret 2023",
+    comments: 32,
     desc: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: "Peneliti Badan Riset dan Inovasi Nasional (BRIN) Andi Pangerang Hasanuddin berkomentar soal Muhammadiyah yang tidak sejalan dengan pemerintah terkait perbedaan penentuan Hari Raya Idul Fitri 1444 Hijriyah. ",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Dia berkomentar di unggahan Facebook milik peneliti BRIN Prof Thomas Djamaluddin. Thomas menulis komentar terkait perbedaan Lebaran. .",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: "Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: '"Eh, masih minta difasilitasi tempat sholat Id. Pemerintah pun memberikan fasilitas," tulis Thomas. Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.' },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: '"Perlu saya halalkan gak nih darahnya semua Muhammadiyah? Apalagi Muhammadiyah yang disusupi Hizbut Tahrir melalui agenda kalender Islam global dari Gema Pembebasan? Banyak bacot emang!!! Sini saya bunuh kalian satu-satu. Silakan laporkan komen saya dengan ancaman pasal pembunuhan! Saya siap dipenjara. Saya capek lihat pergaduhan kalian," kata Andi.',
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: 'Thomas  yang merupakan mantan kepala Lembaga Penerbangan dan Antariksa Nasional (Lapan) itu membenarkan bahwa komentar tersebut berasal dari unggahan di akun Facebooknya. Dia juga mengatakan AP Hasanuddin merupakan peneliti BRIN."AP Hasanuddin itu junior saya di BRIN. Dia membalas komentar saya," ucap Thomas saat dikonfirmas',
+      },
+      {
+        para3: 'Thomas mengatakan saat ini sedang mengecek unggahan yang dikomentari dia dan AP Hasanuddin untuk mengetahui konteksnya. "Saya masih cari-cari ini diunggahan apa, tapi belum ketemu," jelasnya."',
       },
     ],
   },
   {
-    id: 11,
-    catgeory: "business",
-    title: "Why Rich People Don’t Invest Much",
-    date: "19. February 2022",
-    comments: 0,
-    cover: "../images/popular/pop11.jpg",
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
+    id: 1,
+    cover: "../images/popular/popu1.jpg",
+    catgeory: "sosial",
+    title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
+    authorName: "fanfan",
+    authorImg: "../images/author.jpg",
+    time: "23 Maret 2023 11:30",
+    date: "23 Maret 2023",
+    comments: 32,
+    desc: [
+      {
+        para1: "Peneliti Badan Riset dan Inovasi Nasional (BRIN) Andi Pangerang Hasanuddin berkomentar soal Muhammadiyah yang tidak sejalan dengan pemerintah terkait perbedaan penentuan Hari Raya Idul Fitri 1444 Hijriyah. ",
+      },
+      {
+        para2: "Dia berkomentar di unggahan Facebook milik peneliti BRIN Prof Thomas Djamaluddin. Thomas menulis komentar terkait perbedaan Lebaran. .",
+      },
+      {
+        para3: "Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.",
+      },
+    ],
+    details: [
+      {
+        title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
+      },
+      { para1: '"Eh, masih minta difasilitasi tempat sholat Id. Pemerintah pun memberikan fasilitas," tulis Thomas. Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.' },
+      {
+        quote: '"Perlu saya halalkan gak nih darahnya semua Muhammadiyah? Apalagi Muhammadiyah yang disusupi Hizbut Tahrir melalui agenda kalender Islam global dari Gema Pembebasan? Banyak bacot emang!!! Sini saya bunuh kalian satu-satu. Silakan laporkan komen saya dengan ancaman pasal pembunuhan! Saya siap dipenjara. Saya capek lihat pergaduhan kalian," kata Andi.',
+      },
+      {
+        para2: 'Thomas  yang merupakan mantan kepala Lembaga Penerbangan dan Antariksa Nasional (Lapan) itu membenarkan bahwa komentar tersebut berasal dari unggahan di akun Facebooknya. Dia juga mengatakan AP Hasanuddin merupakan peneliti BRIN."AP Hasanuddin itu junior saya di BRIN. Dia membalas komentar saya," ucap Thomas saat dikonfirmas',
+      },
+      {
+        para3: 'Thomas mengatakan saat ini sedang mengecek unggahan yang dikomentari dia dan AP Hasanuddin untuk mengetahui konteksnya. "Saya masih cari-cari ini diunggahan apa, tapi belum ketemu," jelasnya."',
+      },
+    ],
   },
   {
-    id: 12,
-    catgeory: "technology",
-    title: "Welcoming The Digital Generation",
-    date: "19. February 2022",
-    comments: 0,
-    cover: "../images/popular/pop12.jpg",
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
-  },
-  {
-    id: 13,
-    catgeory: "fun",
-    title: "These Teens Are Absolutely Crazy For Beach Soccer",
-    date: "19. February 2022",
-    comments: 0,
-    cover: "../images/popular/pop13.jpg",
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
-  },
-  {
-    id: 14,
-    catgeory: "fun",
-    title: "How To Organize The Best Bridal Party Ever",
-    date: "19. February 2022",
-    comments: 0,
-    cover: "../images/popular/pop14.jpg",
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
-  },
-  {
-    id: 15,
-    catgeory: "technology",
-    title: "Social Networks And Social Life",
-    date: "19. February 2022",
-    comments: 0,
-    cover: "../images/popular/pop15.jpg",
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
-  },
-  {
-    id: 16,
-    catgeory: "technology",
-    title: "Gaming Brings Couples Closer Together?",
-    date: "19. February 2022",
-    comments: 0,
-    cover: "../images/popular/pop1.jpg",
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
+    id: 1,
+    cover: "../images/popular/popu1.jpg",
+    catgeory: "sosial",
+    title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
+    authorName: "fanfan",
+    authorImg: "../images/author.jpg",
+    time: "23 Maret 2023 11:30",
+    date: "23 Maret 2023",
+    comments: 32,
+    desc: [
+      {
+        para1: "Peneliti Badan Riset dan Inovasi Nasional (BRIN) Andi Pangerang Hasanuddin berkomentar soal Muhammadiyah yang tidak sejalan dengan pemerintah terkait perbedaan penentuan Hari Raya Idul Fitri 1444 Hijriyah. ",
+      },
+      {
+        para2: "Dia berkomentar di unggahan Facebook milik peneliti BRIN Prof Thomas Djamaluddin. Thomas menulis komentar terkait perbedaan Lebaran. .",
+      },
+      {
+        para3: "Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.",
+      },
+    ],
+    details: [
+      {
+        title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
+      },
+      { para1: '"Eh, masih minta difasilitasi tempat sholat Id. Pemerintah pun memberikan fasilitas," tulis Thomas. Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.' },
+      {
+        quote: '"Perlu saya halalkan gak nih darahnya semua Muhammadiyah? Apalagi Muhammadiyah yang disusupi Hizbut Tahrir melalui agenda kalender Islam global dari Gema Pembebasan? Banyak bacot emang!!! Sini saya bunuh kalian satu-satu. Silakan laporkan komen saya dengan ancaman pasal pembunuhan! Saya siap dipenjara. Saya capek lihat pergaduhan kalian," kata Andi.',
+      },
+      {
+        para2: 'Thomas  yang merupakan mantan kepala Lembaga Penerbangan dan Antariksa Nasional (Lapan) itu membenarkan bahwa komentar tersebut berasal dari unggahan di akun Facebooknya. Dia juga mengatakan AP Hasanuddin merupakan peneliti BRIN."AP Hasanuddin itu junior saya di BRIN. Dia membalas komentar saya," ucap Thomas saat dikonfirmas',
+      },
+      {
+        para3: 'Thomas mengatakan saat ini sedang mengecek unggahan yang dikomentari dia dan AP Hasanuddin untuk mengetahui konteksnya. "Saya masih cari-cari ini diunggahan apa, tapi belum ketemu," jelasnya."',
+      },
+    ],
   },
 ]
 
