@@ -778,295 +778,15 @@ export const music = [
   {
     id: 1,
     cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
-    title: "kamu kalau kaya mau ga anaknya 700?",
-    authorName: "fanfan",
-    authorImg: "../images/author.jpg",
-    time: "5 Jun - 2022",
-    desc: [
-      {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
-      },
-      {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
-      {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
-      },
-    ],
-    details: [
-      {
-        title: "Starting a new company is easy",
-      },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
-      },
-    ],
-  },
-  {
-    id: 2,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
-    title: "kamu kalau kaya mau ga anaknya 7?",
-    authorName: "fanfan",
-    authorImg: "../images/author.jpg",
-    time: "5 Jun - 2022",
-    desc: [
-      {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
-      },
-      {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
-      {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
-      },
-    ],
-    details: [
-      {
-        title: "Starting a new company is easy",
-      },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
-      },
-    ],
-  },
-  {
-    id: 3,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
-    title: "kamu kalau kaya mau ga anaknya 7?",
-    authorName: "fanfan",
-    authorImg: "../images/author.jpg",
-    time: "5 Jun - 2022",
-    desc: [
-      {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
-      },
-      {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
-      {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
-      },
-    ],
-    details: [
-      {
-        title: "Starting a new company is easy",
-      },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
-      },
-    ],
-  },
-  {
-    id: 4,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
-    title: "kamu kalau kaya mau ga anaknya 7?",
-    authorName: "fanfan",
-    authorImg: "../images/author.jpg",
-    time: "5 Jun - 2022",
-    desc: [
-      {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
-      },
-      {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
-      {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
-      },
-    ],
-    details: [
-      {
-        title: "Starting a new company is easy",
-      },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
-      },
-    ],
-  },
-  {
-    id: 5,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
-    title: "kamu kalau kaya mau ga anaknya 7?",
-    authorName: "fanfan",
-    authorImg: "../images/author.jpg",
-    time: "5 Jun - 2022",
-    desc: [
-      {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
-      },
-      {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
-      {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
-      },
-    ],
-    details: [
-      {
-        title: "Starting a new company is easy",
-      },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
-      },
-    ],
-  },
-  {
-    id: 6,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
-    title: "kamu kalau kaya mau ga anaknya 7?",
-    authorName: "fanfan",
-    authorImg: "../images/author.jpg",
-    time: "5 Jun - 2022",
-    desc: [
-      {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
-      },
-      {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
-      {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
-      },
-    ],
-    details: [
-      {
-        title: "Starting a new company is easy",
-      },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
-      },
-    ],
-  },
-  {
-    id: 7,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
+    catgeory: "music",
     title: "kamu kalau kaya mau ga anaknya 7?",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
     time: "25 June 2023",
     date: "25 June 2023",
-    desc: [
-      {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
-      },
-      {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
-      {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
-      },
-    ],
-    details: [
-      {
-        title: "Starting a new company is easy",
-      },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
-      },
-    ],
-  },
-  {
-    id: 8,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
-    title: "kamu kalau kaya mau ga anaknya 7?",
-    authorName: "fanfan",
-    authorImg: "../images/author.jpg",
-    time: "25 June 2023",
-    date: "25 June 2023",
-    desc: [
-      {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
-      },
-      {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
-      {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
-      },
-    ],
-    details: [
-      {
-        title: "Starting a new company is easy",
-      },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
-      },
-    ],
-  },
-  {
-    id: 9,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
-    title: "kamu kalau kaya mau ga anaknya 7?",
-    authorName: "fanfan",
-    authorImg: "../images/author.jpg",
-    time: "25 June 2023",
-    date: "25 June 2023",
-    desc: [
+    comments: 900,
+    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
+    desclengkap: [
       {
         para1: "lorem ipsum dolor sit amet, consectetur adip",
       },
@@ -1134,7 +854,7 @@ export const music = [
   {
     id: 11,
     cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
+    catgeory: "music",
     title: "kamu kalau kaya mau ga anaknya 7?",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
@@ -1169,257 +889,159 @@ export const music = [
       },
     ],
   },
-  {
-    id: 12,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
-    title: "kamu kalau kaya mau ga anaknya 7?",
-    authorName: "fanfan",
-    authorImg: "../images/author.jpg",
-    time: "25 June 2023",
-    date: "25 June 2023",
-    comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
-    desclengkap: [
-      {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
-      },
-      {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
-      {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
-      },
-    ],
-    details: [
-      {
-        title: "Starting a new company is easy",
-      },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
-      },
-    ],
-  },
-  {
-    id: 13,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
-    title: "kamu kalau kaya mau ga anaknya 7?",
-    authorName: "fanfan",
-    authorImg: "../images/author.jpg",
-    time: "25 June 2023",
-    date: "25 June 2023",
-    comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
-    desclengkap: [
-      {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
-      },
-      {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
-      {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
-      },
-    ],
-    details: [
-      {
-        title: "Starting a new company is easy",
-      },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
-      },
-    ],
-  },
-  {
-    id: 14,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
-    title: "kamu kalau kaya mau ga anaknya 7?",
-    authorName: "fanfan",
-    authorImg: "../images/author.jpg",
-    time: "25 June 2023",
-    date: "25 June 2023",
-    comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
-    desclengkap: [
-      {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
-      },
-      {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
-      {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
-      },
-    ],
-    details: [
-      {
-        title: "Starting a new company is easy",
-      },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
-      },
-    ],
-  },
-  {
-    id: 15,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
-    title: "kamu kalau kaya mau ga anaknya 7?",
-    authorName: "fanfan",
-    authorImg: "../images/author.jpg",
-    time: "25 June 2023",
-    date: "25 June 2023",
-    comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
-    desclengkap: [
-      {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
-      },
-      {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
-      {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
-      },
-    ],
-    details: [
-      {
-        title: "Starting a new company is easy",
-      },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
-      },
-    ],
-  },
-  {
-    id: 16,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "featured",
-    title: "kamu kalau kaya mau ga anaknya 7?",
-    authorName: "fanfan",
-    authorImg: "../images/author.jpg",
-    time: "25 June 2023",
-    date: "25 June 2023",
-    comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
-    desclengkap: [
-      {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
-      },
-      {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
-      {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
-      },
-    ],
-    details: [
-      {
-        title: "Starting a new company is easy",
-      },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
-      },
-    ],
-  },
+ 
+ 
 ]
 
 
 export const ppost = [
   {
     id: 1,
-    catgeory: "world",
-    title: "We Went Deep Underground For This Amazing Cave Shot",
-    date: "19. February 2022",
-    cover: "../images/ppost/pop1.jpg",
+    cover: "../images/popular/popu1.jpg",
+    catgeory: "sosial",
+    title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
+    authorName: "fanfan",
+    authorImg: "../images/author.jpg",
+    time: "23 Maret 2023 11:30",
+    date: "23 Maret 2023",
+    comments: 32,
+    desc: [
+      {
+        para1: "Peneliti Badan Riset dan Inovasi Nasional (BRIN) Andi Pangerang Hasanuddin berkomentar soal Muhammadiyah yang tidak sejalan dengan pemerintah terkait perbedaan penentuan Hari Raya Idul Fitri 1444 Hijriyah. ",
+      },
+      {
+        para2: "Dia berkomentar di unggahan Facebook milik peneliti BRIN Prof Thomas Djamaluddin. Thomas menulis komentar terkait perbedaan Lebaran. .",
+      },
+      {
+        para3: "Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.",
+      },
+    ],
+    details: [
+      {
+        title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
+      },
+      { para1: '"Eh, masih minta difasilitasi tempat sholat Id. Pemerintah pun memberikan fasilitas," tulis Thomas. Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.' },
+      {
+        quote: '"Perlu saya halalkan gak nih darahnya semua Muhammadiyah? Apalagi Muhammadiyah yang disusupi Hizbut Tahrir melalui agenda kalender Islam global dari Gema Pembebasan? Banyak bacot emang!!! Sini saya bunuh kalian satu-satu. Silakan laporkan komen saya dengan ancaman pasal pembunuhan! Saya siap dipenjara. Saya capek lihat pergaduhan kalian," kata Andi.',
+      },
+      {
+        para2: 'Thomas  yang merupakan mantan kepala Lembaga Penerbangan dan Antariksa Nasional (Lapan) itu membenarkan bahwa komentar tersebut berasal dari unggahan di akun Facebooknya. Dia juga mengatakan AP Hasanuddin merupakan peneliti BRIN."AP Hasanuddin itu junior saya di BRIN. Dia membalas komentar saya," ucap Thomas saat dikonfirmas',
+      },
+      {
+        para3: 'Thomas mengatakan saat ini sedang mengecek unggahan yang dikomentari dia dan AP Hasanuddin untuk mengetahui konteksnya. "Saya masih cari-cari ini diunggahan apa, tapi belum ketemu," jelasnya."',
+      },
+    ],
   },
   {
     id: 2,
-    catgeory: "health",
-    title: "6 Reasons Why You Shouldn’t Skip Breakfast",
-    date: "19. February 2022",
-    cover: "../images/ppost/pop2.jpg",
+    cover: "../images/hero/jalantol1.jpg",
+    catgeory: "sosial",
+    title: "anjayani anjuy",
+    authorName: "fanfan",
+    authorImg: "../images/author.jpg",
+    time: "23 Maret 2023 11:30",
+    date: "23 Maret 2023",
+    comments: 32,
+    desc: [
+      {
+        para1: "Peneliti Badan Riset dan Inovasi Nasional (BRIN) Andi Pangerang Hasanuddin berkomentar soal Muhammadiyah yang tidak sejalan dengan pemerintah terkait perbedaan penentuan Hari Raya Idul Fitri 1444 Hijriyah. ",
+      },
+      {
+        para2: "Dia berkomentar di unggahan Facebook milik peneliti BRIN Prof Thomas Djamaluddin. Thomas menulis komentar terkait perbedaan Lebaran. .",
+      },
+      {
+        para3: "Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.",
+      },
+    ],
+    details: [
+      {
+        title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
+      },
+      { para1: '"Eh, masih minta difasilitasi tempat sholat Id. Pemerintah pun memberikan fasilitas," tulis Thomas. Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.' },
+      {
+        quote: '"Perlu saya halalkan gak nih darahnya semua Muhammadiyah? Apalagi Muhammadiyah yang disusupi Hizbut Tahrir melalui agenda kalender Islam global dari Gema Pembebasan? Banyak bacot emang!!! Sini saya bunuh kalian satu-satu. Silakan laporkan komen saya dengan ancaman pasal pembunuhan! Saya siap dipenjara. Saya capek lihat pergaduhan kalian," kata Andi.',
+      },
+      {
+        para2: 'Thomas  yang merupakan mantan kepala Lembaga Penerbangan dan Antariksa Nasional (Lapan) itu membenarkan bahwa komentar tersebut berasal dari unggahan di akun Facebooknya. Dia juga mengatakan AP Hasanuddin merupakan peneliti BRIN."AP Hasanuddin itu junior saya di BRIN. Dia membalas komentar saya," ucap Thomas saat dikonfirmas',
+      },
+      {
+        para3: 'Thomas mengatakan saat ini sedang mengecek unggahan yang dikomentari dia dan AP Hasanuddin untuk mengetahui konteksnya. "Saya masih cari-cari ini diunggahan apa, tapi belum ketemu," jelasnya."',
+      },
+    ],
   },
   {
     id: 3,
-    catgeory: "food",
-    title: "Our Top 5 Restaurants For A Complete Culinary Experience",
-    date: "19. February 2022",
-    cover: "../images/ppost/pop3.jpg",
+    cover: "../images/popular/popu1.jpg",
+    catgeory: "sosial",
+    title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
+    authorName: "fanfan",
+    authorImg: "../images/author.jpg",
+    time: "23 Maret 2023 11:30",
+    date: "23 Maret 2023",
+    comments: 32,
+    desc: [
+      {
+        para1: "Peneliti Badan Riset dan Inovasi Nasional (BRIN) Andi Pangerang Hasanuddin berkomentar soal Muhammadiyah yang tidak sejalan dengan pemerintah terkait perbedaan penentuan Hari Raya Idul Fitri 1444 Hijriyah. ",
+      },
+      {
+        para2: "Dia berkomentar di unggahan Facebook milik peneliti BRIN Prof Thomas Djamaluddin. Thomas menulis komentar terkait perbedaan Lebaran. .",
+      },
+      {
+        para3: "Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.",
+      },
+    ],
+    details: [
+      {
+        title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
+      },
+      { para1: '"Eh, masih minta difasilitasi tempat sholat Id. Pemerintah pun memberikan fasilitas," tulis Thomas. Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.' },
+      {
+        quote: '"Perlu saya halalkan gak nih darahnya semua Muhammadiyah? Apalagi Muhammadiyah yang disusupi Hizbut Tahrir melalui agenda kalender Islam global dari Gema Pembebasan? Banyak bacot emang!!! Sini saya bunuh kalian satu-satu. Silakan laporkan komen saya dengan ancaman pasal pembunuhan! Saya siap dipenjara. Saya capek lihat pergaduhan kalian," kata Andi.',
+      },
+      {
+        para2: 'Thomas  yang merupakan mantan kepala Lembaga Penerbangan dan Antariksa Nasional (Lapan) itu membenarkan bahwa komentar tersebut berasal dari unggahan di akun Facebooknya. Dia juga mengatakan AP Hasanuddin merupakan peneliti BRIN."AP Hasanuddin itu junior saya di BRIN. Dia membalas komentar saya," ucap Thomas saat dikonfirmas',
+      },
+      {
+        para3: 'Thomas mengatakan saat ini sedang mengecek unggahan yang dikomentari dia dan AP Hasanuddin untuk mengetahui konteksnya. "Saya masih cari-cari ini diunggahan apa, tapi belum ketemu," jelasnya."',
+      },
+    ],
   },
   {
     id: 4,
-    catgeory: "fashion",
-    title: "Hipster Chic Is In Again: Get Some Glasses",
-    date: "19. February 2022",
-    cover: "../images/ppost/pop4.jpg",
-  },
-]
-export const lifestyle = [
-  {
-    id: 1,
-    catgeory: "world",
-    title: "Mustang Teases With A New Promo",
-    date: "19. February 2022",
-    cover: "../images/life/life1.jpg",
-  },
-  {
-    id: 2,
-    catgeory: "sport",
-    title: "Surfs Up – Places For Killer Waves",
-    date: "19. February 2022",
-    cover: "../images/life/life2.jpg",
-  },
-  {
-    id: 3,
-    catgeory: "fashion",
-    title: "Learn How To Nail Your Favorite Look",
-    date: "19. February 2022",
-    cover: "../images/life/life3.jpg",
-  },
-  {
-    id: 4,
-    catgeory: "world",
-    title: "Music Playing On R&B Stations",
-    date: "19. February 2022",
-    cover: "../images/life/life4.jpg",
+    cover: "../images/popular/popu1.jpg",
+    catgeory: "sosial",
+    title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
+    authorName: "fanfan",
+    authorImg: "../images/author.jpg",
+    time: "23 Maret 2023 11:30",
+    date: "23 Maret 2023",
+    comments: 32,
+    desc: [
+      {
+        para1: "Peneliti Badan Riset dan Inovasi Nasional (BRIN) Andi Pangerang Hasanuddin berkomentar soal Muhammadiyah yang tidak sejalan dengan pemerintah terkait perbedaan penentuan Hari Raya Idul Fitri 1444 Hijriyah. ",
+      },
+      {
+        para2: "Dia berkomentar di unggahan Facebook milik peneliti BRIN Prof Thomas Djamaluddin. Thomas menulis komentar terkait perbedaan Lebaran. .",
+      },
+      {
+        para3: "Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.",
+      },
+    ],
+    details: [
+      {
+        title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
+      },
+      { para1: '"Eh, masih minta difasilitasi tempat sholat Id. Pemerintah pun memberikan fasilitas," tulis Thomas. Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.' },
+      {
+        quote: '"Perlu saya halalkan gak nih darahnya semua Muhammadiyah? Apalagi Muhammadiyah yang disusupi Hizbut Tahrir melalui agenda kalender Islam global dari Gema Pembebasan? Banyak bacot emang!!! Sini saya bunuh kalian satu-satu. Silakan laporkan komen saya dengan ancaman pasal pembunuhan! Saya siap dipenjara. Saya capek lihat pergaduhan kalian," kata Andi.',
+      },
+      {
+        para2: 'Thomas  yang merupakan mantan kepala Lembaga Penerbangan dan Antariksa Nasional (Lapan) itu membenarkan bahwa komentar tersebut berasal dari unggahan di akun Facebooknya. Dia juga mengatakan AP Hasanuddin merupakan peneliti BRIN."AP Hasanuddin itu junior saya di BRIN. Dia membalas komentar saya," ucap Thomas saat dikonfirmas',
+      },
+      {
+        para3: 'Thomas mengatakan saat ini sedang mengecek unggahan yang dikomentari dia dan AP Hasanuddin untuk mengetahui konteksnya. "Saya masih cari-cari ini diunggahan apa, tapi belum ketemu," jelasnya."',
+      },
+    ],
   },
 ]
 export const tpost = [
@@ -1437,49 +1059,6 @@ export const tpost = [
     id: 3,
     title: "Mount Etna erupts fashion in nice looking pictures",
     cover: "../images/tpost/tpost3.jpg",
-  },
-]
-export const gallery = [
-  {
-    cover: "../images/gallery/g1.jpg",
-  },
-  {
-    cover: "../images/gallery/g2.jpg",
-  },
-  {
-    cover: "../images/gallery/g3.jpg",
-  },
-  {
-    cover: "../images/gallery/g4.jpg",
-  },
-  {
-    cover: "../images/gallery/g5.jpg",
-  },
-]
-export const discover = [
-  {
-    title: "games",
-    cover: "../images/discover/d1.jpg",
-  },
-  {
-    title: "sports",
-    cover: "../images/discover/d2.jpg",
-  },
-  {
-    title: "humour",
-    cover: "../images/discover/d3.jpg",
-  },
-  {
-    title: "gadgets",
-    cover: "../images/discover/d4.jpg",
-  },
-  {
-    title: "movies",
-    cover: "../images/discover/d5.jpg",
-  },
-  {
-    title: "nitendo",
-    cover: "../images/discover/d6.jpg",
   },
 ]
 

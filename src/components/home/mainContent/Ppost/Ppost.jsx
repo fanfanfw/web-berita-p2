@@ -4,6 +4,8 @@ import { ppost } from "../../../../dummyData"
 import Heading from "../../../common/heading/Heading"
 import "./ppost.css"
 import { Link } from "react-router-dom"
+import "slick-carousel/slick/slick.css"
+import "slick-carousel/slick/slick-theme.css"
 
 
 // copy same code of popular

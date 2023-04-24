@@ -1,17 +1,17 @@
 import React, { useEffect, useState } from "react"
 import { useParams } from "react-router-dom"
-import { ppost } from "../../dummyData"
+import { music } from "../../dummyData"
 import Side from "../home/sideContent/side/Side"
 import "../home/mainContent/homes/style.css"
-import "./thirdpage.css"
+import "./fourthpage.css"
 import "../home/sideContent/side/side.css"
 
-const ThirdPage = () => {
+const FourthPage = () => {
   const { id } = useParams()
   const [item, setItem] = useState(null)
 
   useEffect(() => {
-    const item = ppost.find((item) => item.id === parseInt(id))
+    const item = music.find((item) => item.id === parseInt(id))
     window.scrollTo(0, 0)
     if (item) {
       setItem(item)
@@ -106,4 +106,4 @@ const ThirdPage = () => {
   )
 }
 
-export default ThirdPage
+export default FourthPage

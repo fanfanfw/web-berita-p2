@@ -3,6 +3,9 @@ import "./music.css"
 import Slider from "react-slick"
 import Heading from "../../../common/heading/Heading"
 import { music } from "../../../../dummyData"
+import "slick-carousel/slick/slick.css"
+import "slick-carousel/slick/slick-theme.css"
+import { Link } from "react-router-dom"
 
 const Music = () => {
   const settings = {
@@ -12,7 +15,7 @@ const Music = () => {
     centerPadding: "0",
     slidesToShow: 1,
     speed: 500,
-    rows: 2,
+    rows: 4,
     slidesPerRow: 1,
   }
   return (
@@ -20,7 +23,7 @@ const Music = () => {
       <section className='music'>
         <Heading title='Music News' />
         <div className='content'>
-          <Slider {...settings}>
+        <Slider {...settings}>
             {music
               .filter((val) => val.catgeory === "music")
               .map((val) => {
@@ -36,7 +39,9 @@ const Music = () => {
                         </div>
                       </div>
                       <div className='text'>
+                      <Link to={`/ThirdPage/${val.id}`}>
                         <h1 className='title'>{val.title.slice(0, 40)}...</h1>
+                        </Link>
                         <div className='date'>
                           <i class='fas fa-calendar-days'></i>
                           <label>{val.date}</label>
@@ -53,7 +58,7 @@ const Music = () => {
                   </div>
                 )
               })}
-          </Slider>
+         </Slider>
         </div>
       </section>
     </>

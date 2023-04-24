@@ -9,6 +9,7 @@ import EnterPage1 from "./components/enterpage1/EnterPage1"
 import Entertaiment from "./components/entertaiment/Entertaiment"
 import SecondPage from "./components/secondpage/SecondPage"
 import ThirdPage from "./components/thirdpage/ThirdPage"
+import FourthPage from "./components/fourthpage/FourthPage"
 
 
 const App = () => {
@@ -23,6 +24,7 @@ const App = () => {
           <Route path='/enterpage1/:id' exact component={EnterPage1} />
           <Route path='/secondpage/:id' exact component={SecondPage} />
           <Route path='/thirdpage/:id' exact component={ThirdPage} />
+          <Route path='/fourthpage/:id' exact component={FourthPage} />
         </Switch>
         <Footer />
       </Router>
