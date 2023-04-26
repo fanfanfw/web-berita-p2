@@ -5,7 +5,9 @@ import Homepages from "./components/home/Homepages"
 import Footer from "./components/common/footer/Footer"
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom"
 import EnterPageHero from "./components/Page/enterpagehero/EnterPageHero"
+import BisnisPageHero from "./components/Page/bisnispagehero/BisnisPageHero"
 import Entertaiment from "./components/entertaiment/Entertaiment"
+import Bisnis from "./components/bisnis/Bisnis"
 import SinglePage from "./components/Page/singlePage/SinglePage"
 import SecondPage from "./components/Page/secondpage/SecondPage"
 import ThirdPage from "./components/Page/thirdpage/ThirdPage"
@@ -21,8 +23,10 @@ const App = () => {
         <Switch>
           <Route exact path='/' component={Homepages} />
           <Route exact path='/entertaiment' component={Entertaiment} />
+          <Route exact path='/bisnis' component={Bisnis} />
           <Route path='/singlepage/:id' exact component={SinglePage} />
           <Route path='/enterpagehero/:id' exact component={EnterPageHero} />
+          <Route path='/bisnispagehero/:id' exact component={BisnisPageHero} />
           <Route path='/secondpage/:id' exact component={SecondPage} />
           <Route path='/thirdpage/:id' exact component={ThirdPage} />
           <Route path='/fourthpage/:id' exact component={FourthPage} />

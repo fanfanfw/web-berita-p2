@@ -1,17 +1,17 @@
 import React, { useEffect, useState } from "react"
 import { useParams } from "react-router-dom"
-import { heroenter } from "../../../dummyData"
+import { herobisnis } from "../../../dummyData"
 import Side from "../../home/sideContent/side/Side"
 import "../../home/mainContent/homes/style.css"
-import "./enterpagehero.css"
+import "./bisnispagehero.css"
 import "../../home/sideContent/side/side.css"
 
-const EnterPageHero = () => {
+const BisnisPageHero = () => {
   const { id } = useParams()
   const [item, setItem] = useState(null)
 
   useEffect(() => {
-    const item = heroenter.find((item) => item.id === parseInt(id))
+    const item = herobisnis.find((item) => item.id === parseInt(id))
     window.scrollTo(0, 0)
     if (item) {
       setItem(item)
@@ -106,4 +106,4 @@ const EnterPageHero = () => {
   )
 }
 
-export default EnterPageHero
+export default BisnisPageHero
