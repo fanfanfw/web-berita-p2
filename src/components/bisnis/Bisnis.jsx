@@ -1,5 +1,6 @@
 import React from 'react'
 import Herobisnis from "./heroBisnis/Herobisnis"
+import HomeBisnis from './mainBisnis/home/HomeBisnis'
 
 
 const Bisnis = () => {
@@ -8,7 +9,7 @@ const Bisnis = () => {
     <section className='bisnis'>
     <div className='container paddingTB'>
     <Herobisnis />
-
+    <HomeBisnis />  
     </div>
     </section>
   </>

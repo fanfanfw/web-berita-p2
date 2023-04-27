@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "react-router-dom"
 
-const Cardbisnis = ({ item: { id, cover, catgeory, title, authorName, time } }) => {
+const CardBisnis = ({ item: { id, cover, catgeory, title, authorName, time } }) => {
   return (
     <>
       <div className='box'>
@@ -23,4 +23,4 @@ const Cardbisnis = ({ item: { id, cover, catgeory, title, authorName, time } }) 
   )
 }
 
-export default Cardbisnis
+export default CardBisnis

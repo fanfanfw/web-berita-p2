@@ -1,13 +1,13 @@
 import React from "react"
-import "./contententer.css"
+import "./contentbisnis.css"
 import Slider from "react-slick"
 import Heading from "../../../common/heading/Heading"
-import { contentEnter } from "../../../../dummyData"
+import { contentBisnis } from "../../../../dummyData"
 import "slick-carousel/slick/slick.css"
 import "slick-carousel/slick/slick-theme.css"
 import { Link } from "react-router-dom"
 
-const ContentEnter = () => {
+const ContentBisnis = () => {
   const settings = {
     className: "center",
     centerMode: true,
@@ -20,12 +20,12 @@ const ContentEnter = () => {
   }
   return (
     <>
-      <section className='entertaiment'>
-        <Heading title='Entertaiment' />
+      <section className='bisnis'>
+        <Heading title='Bisnis' />
         <div className='content'>
         <Slider {...settings}>
-            {contentEnter
-              .filter((val) => val.catgeory === "Entertaiment")
+            {contentBisnis
+              .filter((val) => val.catgeory === "Bisnis")
               .map((val) => {
                 return (
                   <div className='items'>
@@ -39,7 +39,7 @@ const ContentEnter = () => {
                         </div>
                       </div>
                       <div className='text'>
-                      <Link to={`/EnterPage/${val.id}`}>
+                      <Link to={`/BisnisPage/${val.id}`}>
                         <h1 className='title'>{val.title.slice(0, 40)}...</h1>
                         </Link>
                         <div className='date'>
@@ -65,4 +65,4 @@ const ContentEnter = () => {
   )
 }
 
-export default ContentEnter
+export default ContentBisnis

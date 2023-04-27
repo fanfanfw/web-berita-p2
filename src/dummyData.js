@@ -1443,7 +1443,7 @@ export const contentBisnis = [
   {
     id: 1,
     cover: "../images/hero/hero1.jpg",
-    catgeory: "Entertaiment",
+    catgeory: "Bisnis",
     title: "kamu kalau kaya mau ga anaknya 70892?",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
@@ -1481,7 +1481,7 @@ export const contentBisnis = [
   {
     id: 2,
     cover: "../images/hero/hero1.jpg",
-    catgeory: "Entertaiment",
+    catgeory: "Bisnis",
     title: "kamu kalau kaya mau ga anaknya 70892?",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
@@ -1519,7 +1519,7 @@ export const contentBisnis = [
   {
     id: 3,
     cover: "../images/hero/hero1.jpg",
-    catgeory: "Entertaiment",
+    catgeory: "Bisnis",
     title: "kamu kalau kaya mau ga anaknya 70892?",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",

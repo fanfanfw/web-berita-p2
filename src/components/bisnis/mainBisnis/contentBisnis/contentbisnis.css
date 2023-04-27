@@ -1,25 +1,25 @@
-.entertaiment .box {
+.bisnis .box {
     margin-bottom: 30px;
     margin-left: 2px;
   }
-  .entertaiment .text {
+  .bisnis .text {
     padding: 0 30px;
   }
-  .entertaiment .images {
+  .bisnis .images {
     width: 320px;
     height: 220px;
   }
-  .entertaiment img {
+  .bisnis img {
     width: 320px;
     height: 220px;
     object-fit: cover;
   }
-  .entertaiment h1 {
+  .bisnis h1 {
     font-size: 22px;
   }
   @media screen and (max-width: 768px) {
-    .entertaiment img,
-    .entertaiment .images {
+    .bisnis img,
+    .bisnis .images {
       height: 350px;
     }
   }

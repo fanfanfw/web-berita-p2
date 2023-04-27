@@ -3,7 +3,7 @@ import { herobisnis } from "../../../dummyData"
 import "./herobisnis.css"
 import Cardbisnis from "./Cardbisnis"
 
-const Herobisnis = () => {
+const HeroBisnis = () => {
   const [items, setItems] = useState(herobisnis)
   return (
     <>
@@ -22,4 +22,4 @@ const Herobisnis = () => {
   )
 }
 
-export default Herobisnis
+export default HeroBisnis
