@@ -5,12 +5,8 @@ import HomeEnter from './mainEnter/home/HomeEnter'
 const Entertaiment = () => {
   return (
     <>
-    <section className='enteraiment'>
-    <div className='container paddingTB'>
       <Heroenter />
       <HomeEnter/>
-    </div>
-    </section>
   </>
   )
 }

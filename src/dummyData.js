@@ -358,7 +358,7 @@ export const herobisnis = [
     id: 3,
     cover: "../images/hero/hero3.jpg",
     catgeory: "fashion",
-    title: "pppppppppppppppppppppppppppppppppppppppppppppppppp",
+    title: "dadali manuk pang badagna",
     authorName: "rina",
     authorImg: "../images/author.jpg",
     time: "22 Mar - 2022",
