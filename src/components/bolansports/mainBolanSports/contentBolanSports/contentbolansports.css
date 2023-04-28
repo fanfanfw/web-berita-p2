@@ -1,0 +1,26 @@
+.bolansports .box {
+    margin-bottom: 30px;
+    margin-left: 2px;
+  }
+  .bolansports .text {
+    padding: 0 30px;
+  }
+  .bolansports .images {
+    width: 320px;
+    height: 220px;
+  }
+  .bolansports img {
+    width: 320px;
+    height: 220px;
+    object-fit: cover;
+  }
+  .bolansports h1 {
+    font-size: 22px;
+  }
+  @media screen and (max-width: 768px) {
+    .bolansports img,
+    .bolansports .images {
+      height: 350px;
+    }
+  }
+  
