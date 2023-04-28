@@ -1,0 +1,26 @@
+.teknonsains .box {
+    margin-bottom: 30px;
+    margin-left: 2px;
+  }
+  .teknonsains .text {
+    padding: 0 30px;
+  }
+  .teknonsains .images {
+    width: 320px;
+    height: 220px;
+  }
+  .teknonsains img {
+    width: 320px;
+    height: 220px;
+    object-fit: cover;
+  }
+  .teknonsains h1 {
+    font-size: 22px;
+  }
+  @media screen and (max-width: 768px) {
+    .teknonsains img,
+    .teknonsains .images {
+      height: 350px;
+    }
+  }
+  
