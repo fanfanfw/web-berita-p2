@@ -1,0 +1,26 @@
+.foodntravel .box {
+    margin-bottom: 30px;
+    margin-left: 2px;
+  }
+  .foodntravel .text {
+    padding: 0 30px;
+  }
+  .foodntravel .images {
+    width: 320px;
+    height: 220px;
+  }
+  .foodntravel img {
+    width: 320px;
+    height: 220px;
+    object-fit: cover;
+  }
+  .foodntravel h1 {
+    font-size: 22px;
+  }
+  @media screen and (max-width: 768px) {
+    .foodntravel img,
+    .foodntravel .images {
+      height: 350px;
+    }
+  }
+  
