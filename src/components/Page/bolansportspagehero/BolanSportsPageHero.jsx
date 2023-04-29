@@ -3,8 +3,8 @@ import { useParams } from "react-router-dom"
 import { herobolansports } from "../../../dummyData"
 import Side from "../../home/sideContent/side/Side"
 import "../../home/mainContent/homes/style.css"
-import "./bolansportspagehero.css"
 import "../../home/sideContent/side/side.css"
+import "./bolansportspagehero.css"
 
 const BolanSportsPageHero = () => {
   const { id } = useParams()

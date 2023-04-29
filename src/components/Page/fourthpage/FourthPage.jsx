@@ -3,8 +3,8 @@ import { useParams } from "react-router-dom"
 import { music } from "../../../dummyData"
 import Side from "../../home/sideContent/side/Side"
 import "../../home/mainContent/homes/style.css"
-import "./fourthpage.css"
 import "../../home/sideContent/side/side.css"
+import "./fourthpage.css"
 
 const FourthPage = () => {
   const { id } = useParams()

@@ -1,6 +1,17 @@
 main {
   margin-top: 50px;
 }
+span {
+  text-decoration: none;
+}
+
+span:hover {
+  color: black; /* warna ketika di-hover */
+}
+
+span:not(:hover) {
+  color: white; /* warna ketika tidak di-hover */
+}
 .details {
   padding-right: 50px;
 }

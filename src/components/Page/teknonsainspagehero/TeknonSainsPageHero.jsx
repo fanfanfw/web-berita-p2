@@ -3,7 +3,6 @@ import { useParams } from "react-router-dom"
 import { heroteknonsains } from "../../../dummyData"
 import Side from "../../home/sideContent/side/Side"
 import "../../home/mainContent/homes/style.css"
-import "./teknonsainspagehero.css"
 import "../../home/sideContent/side/side.css"
 
 const TeknonSainsPageHero = () => {

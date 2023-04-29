@@ -1,6 +1,5 @@
 import React from "react"
 import Side from "../../../home/sideContent/side/Side"
-import "./style.css"
 import ContentTeknonSains from "../contentTeknonSains/ContentTeknonSains"
 
 const HomeTeknonSains = () => {

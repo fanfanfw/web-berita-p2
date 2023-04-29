@@ -3,8 +3,8 @@ import { useParams } from "react-router-dom"
 import { contentBisnis } from "../../../dummyData"
 import Side from "../../home/sideContent/side/Side"
 import "../../home/mainContent/homes/style.css"
-import "./bisnispage.css"
 import "../../home/sideContent/side/side.css"
+import "./bisnispage.css"
 
 const BisnisPage = () => {
   const { id } = useParams()

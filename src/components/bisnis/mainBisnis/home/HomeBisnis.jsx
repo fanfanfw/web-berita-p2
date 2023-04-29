@@ -1,6 +1,5 @@
 import React from "react"
 import Side from "../../../home/sideContent/side/Side"
-import "./style.css"
 import ContentBisnis from "../contentBisnis/ContentBisnis"
 
 const HomeBisnis = () => {

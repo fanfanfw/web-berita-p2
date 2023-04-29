@@ -3,7 +3,6 @@ import { useParams } from "react-router-dom"
 import { popular } from "../../../dummyData"
 import Side from "../../home/sideContent/side/Side"
 import "../../home/mainContent/homes/style.css"
-import "./secondpage.css"
 import "../../home/sideContent/side/side.css"
 
 const SecondPage = () => {
@@ -36,17 +35,15 @@ const SecondPage = () => {
               <div className='social'>
                 <div className='socBox'>
                   <i className='fab fa-facebook-f'></i>
-                  <span>SHARE</span>
+                  <a href={item.fb} target="_blank" rel="noopener noreferrer"><span>Facebook</span></a>
                 </div>
                 <div className='socBox'>
                   <i className='fab fa-twitter'></i>
-                  <span>TWITTER</span>
+                  <a href={item.twitter} target="_blank" rel="noopener noreferrer"><span>Twitter</span></a>
                 </div>
                 <div className='socBox'>
-                  <i className='fab fa-pinterest'></i>
-                </div>
-                <div className='socBox'>
-                  <i className='fa fa-envelope'></i>
+                  <i className='fab fa-instagram'></i>
+                  <a href={item.ig} target="_blank" rel="noopener noreferrer"><span>Instagram</span></a>
                 </div>
               </div>
 
