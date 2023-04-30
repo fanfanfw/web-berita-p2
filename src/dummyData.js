@@ -283,7 +283,7 @@ export const herobisnis = [
       {
         para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
       },
-      {
+      { 
         para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
       },
     ],
@@ -1210,21 +1210,24 @@ export const popular = [
 export const music = [
   {
     id: 1,
-    cover: "../images/hero/hero1.jpg",
+    cover: "../images/music/travis.jpg",
     catgeory: "music",
-    title: "kamu kalau kaya mau ga anaknya 70892?",
-    authorName: "fanfan",
+    title: "Travis Japan Akan Rilis Single Kedua dan EP Moving Pieces",
+    authorName: "fan fan",
     authorImg: "../images/author.jpg",
     time: "25 June 2023",
     date: "25 June 2023",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
+    desc: "Travis Japan akan merilis single kedua yang berjudul Moving Pieces pada 15 Mei mendatang. Menyusul single-nya, idol group tersebut juga akan menelurkan extended play (EP) perdana mereka pada 5 Juni 2023.",
     desclengkap: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: "Travis Japan akan merilis single kedua yang berjudul Moving Pieces pada 15 Mei mendatang. Menyusul single-nya, idol group tersebut juga akan menelurkan extended play (EP) perdana mereka pada 5 Juni 2023.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: 'Kabar tersebut dibagikan oleh Johnny & Associates selaku agensi yang menaungi Travis Japan. Single kedua #TravisJapan, #MovingPieces," tulis agensi lewat akun Twitter @johnnys pada Minggu (30/4).Diproduksi oleh Poo Bear. Koreografi oleh Travis Payne. Streaming di seluruh dunia pada 15 Mei!" tambah mereka.',
       },
       {
         para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
@@ -1232,286 +1235,214 @@ export const music = [
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Travis Japan Akan Rilis Single Kedua dan EP Moving Pieces",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: "Poo Bear merupakan penulis lagu, penyanyi, dan produser asal Amerika Serikat. Pria bernama asli Jason Paul Douglas Boyd itu dikenal sebagai salah satu penulis lagu-lagu Justin Bieber, seperti Where Are U Now, What Do You Mean, hingga Hold Tight." },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: '"Single kedua #TravisJapan, #MovingPieces," tulis agensi lewat akun Twitter @johnnys pada Minggu (30/4).',
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: "Ia juga pernah bekerja sama dengan sejumlah musisi ternama lainnya, seperti Usher, DJ Khaled, Ty Dola Sign, Ed Sheeran, Hikaru Utada, hingga ONE OK ROCK.",
+      },
+      {
+        para3: "Sedangkan, Travis Payne merupakan sosok di balik inspirasi nama Travis Japan. Payne juga membantu dalam pembentukan Travis Japan sebagai sebuah grup pada 2012 silam.",
       },
     ],
   },
   {
     id: 2,
-    cover: "../images/hero/hero1.jpg",
+    cover: "../images/music/ranga.jpeg",
     catgeory: "music",
-    title: "kamu kalau kaya mau ga anaknya 7?",
+    title: "Rangga Gandeng Rudye (Lyon) di Single Perdana Asa",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
     time: "25 June 2023",
     date: "25 June 2023",
-    comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
+    comments: 90,
+    desc: "Penyanyi solo pria pendatang baru asal Jakarta, Rangga ingin mencoba sisi pandang yang berbeda dalam mengawali karirnya. Di lagu rilisan tunggal perdananya yang bertajuk “Asa”, ia ingin merayakan cinta yang justru sudah tertanam lama, mempertahankannya, dan mensyukuri kehadirannya.  ",
     desclengkap: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: "Penyanyi solo pria pendatang baru asal Jakarta, Rangga ingin mencoba sisi pandang yang berbeda dalam mengawali karirnya. Di lagu rilisan tunggal perdananya yang bertajuk “Asa”, ia ingin merayakan cinta yang justru sudah tertanam lama, mempertahankannya, dan mensyukuri kehadirannya.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
+        para2: 'Penyanyi yang punya nama lengkap Rangga Dirgantara ini meyakinkan, bahwa “Asa” bersifat universal. Bisa menjadi selebrasi cinta buat siapa saja. "Jika dibayangkan, lagu ini sangat pas didengarkan saat senja, dalam suasana yang romantis," kata Rangga dalam keterangan tertulisnya, baru-baru ini. Sesuai potongan lirik lagu “Asa” berikut ini: “… Bersama senja, Muara sgala rasa, Terbiasa berkata… Tak akan pernah ada yang sirna, Ku selalu menjaga, Dengan segenap asa jiwa….”',},
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: "Sebagai pendatang baru yang belum mengenyam pengalaman dalam dunia rekaman, Rangga tentunya tidak bekerja sendiri saat penggarapan “Asa”. Sepanjang proses kreatifnya, ia pun menggamit Rudye, seorang musisi yang pernah tergabung di band rock Killing Me Inside, untuk meracik musik yang sesuai misi dalam lagunya. ",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Rangga Gandeng Rudye (Lyon) di Single Perdana Asa",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: '"Tapi untuk judul lagu, kata ‘Asa’ itu datangnya dari Rangga sendiri. ‘Asa’ sendiri bermakna pengharapan, sebuah harapan akan cinta yang langgeng dan tak pernah sirna," ujar Rudye mengungkap misi lagunya.' },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: '"Jika dibayangkan, lagu ini sangat pas didengarkan saat senja, dalam suasana yang romantis," kata Rangga dalam keterangan tertulisnya, baru-baru ini.',
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: "Cukup panjang waktu yang dibutuhkan Rudye untuk mengeksekusi “Asa” hingga menjadi sebuah lagu yang benar-benar sesuai dengan misinya. Musisi yang kini mengibarkan proyek musik bernama L.Y.O.N. mengawalinya dengan melakukan beberapa kali workshop untuk benar-benar memahami karakter serta untuk menentukan tangga nada yang pas untuk vokal Rangga. ",
+      },
+      {
+        para3: "Dalam penilaian Rudye, vokal Rangga terbilang unik. Sedikit tebal dan bervibra. Bahkan di beberapa bagian, tarikan vokalnya bisa dibilang mirip Bams (eks Samsons). Ia pun membayangkan untuk menggiringnya ke pola musik yang bisa diterima oleh kaum muda, namun di sisi lain juga bisa dinikmati segala usia. ",
       },
     ],
   },
   {
     id: 3,
-    cover: "../images/hero/hero1.jpg",
+    cover: "../images/music/larasuka.jpg",
     catgeory: "music",
-    title: "kamu kalau kaya mau ga anaknya 7?",
+    title: "Rayakan Ulang Tahun, Fourtwnty Rilis Lagu Larasuka sebagai Representasi Problematika Kesedihan yang Tersembunyi di Balik Topeng Kebahagiaan",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
     time: "25 June 2023",
     date: "25 June 2023",
     comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
+    desc: "Setiap tahunnya pada 20 April, grup musik Fourtwnty kerap merilis sesuatu sebagai perayaan terhadap eksistensi grup musik ini di hari jadinya. Begitu pula pada 20 April tahun ini.",
     desclengkap: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: "Setiap tahunnya pada 20 April, grup musik Fourtwnty kerap merilis sesuatu sebagai perayaan terhadap eksistensi grup musik ini di hari jadinya. Begitu pula pada 20 April tahun ini.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Fourtwnty mempersembahkan sebuah kado spesial di haru ulang tahun berupa lagu yang dikemas dalam video musik. Lagu “Larasuka” didapuk menjadi sebuah focus track dari album terbaru Fourtwnty bertajuk Nalar yang segera rilis dalam waktu dekat.",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: '“Larasuka”, lagu yang liriknya ditulis Ari Lesmana, aransemen dilakukan bersama Nuwi, Ari, dan juga Andi Armand sebagai produser ini menceritakan tentang fenomena-fenomena kehidupan yang dekat dengan kisah kita sehari-hari, ada kesedihan yang disembunyikan di balik sebuah senyum kebahagiaan.',
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Rayakan Ulang Tahun, Fourtwnty Rilis Lagu Larasuka sebagai Representasi Problematika Kesedihan yang Tersembunyi di Balik Topeng Kebahagiaan",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: "Dengan cermatnya, Edy Khemod sebagai sutradara mampu membedah inspirasi yang lahir dari “Larasuka”, ia merasa bahwa inspirasi ini jadi tantangan tersendiri bagi dirinya untuk menuangkannya dalam bentuk visual." },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: "Tema lagu ini tergambar baik dari visual yang ditampilkan di video musik yang digarap oleh Cerahati.",
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: "“Kalau segi konsep sebenarnya, begitu kita ngebaca liriknya kita nemu persamaan simbolisasinya dengan satu fenomena sosial yang ada di kita yaitu pengamen berbaju boneka itu. Di dalam llirik ‘tertawa luarku, menangis dalamnya, tak ada yang tahu, cuma aku’, kita menemukan kemiripan secara simbolik”, ungkap Khemod melalui keterangan resmi",
+      },
+      {
+        para3: 'Nalar adalah album ketiga Fourtwnty setelah sebelumnya merilis dua album, masing- masing Lelaku (2015) dan Ego &amp; Fungsi Otak (2018). Album Nalar sendiri dipandang sebagai sebuah pencapaian musik Fourtwnty baik secara gagasan dan estetika bermusik. Video musik “Larasuka” sudah tersedia di Youtube Fourtwnty Music mulai 20 April 2023. Semoga video musik “Larasuka” bisa dinikmati dan diapresiasi dengan baik oleh fans dan penikmat musik tanah air.',
       },
     ],
   },
   {
     id: 4,
-    cover: "../images/hero/hero1.jpg",
+    cover: "../images/music/uci.jpg",
     catgeory: "music",
-    title: "kamu kalau kaya mau ga anaknya 7?",
+    title: "Catatan Uci Flowdea Soal Paskah 2023, Berbagi Kesaksian ke Jemaat dan Tuang Romantika Hidup Lewat Lagu",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
     time: "25 June 2023",
     date: "25 June 2023",
     comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
+    desc: "Selebgram sekaligus penyanyi Uci Flowdea berbagi catatan menarik seputar perayaan Paskah yang baru saja lewat. Menurutnya, Paskah salah satu momen penting bagi umat Kristen di seluruh dunia.",
     desclengkap: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: "Selebgram sekaligus penyanyi Uci Flowdea berbagi catatan menarik seputar perayaan Paskah yang baru saja lewat. Menurutnya, Paskah salah satu momen penting bagi umat Kristen di seluruh dunia.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Baginya, Paskah 2023 istimewa karena bisa diperingati dengan mendatangi gereja secara langsung. Bukan lagi lewat jalur virtual seperti beberapa tahun belakangan akibat pandemi Covid-19.",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: "“Kemarin pandemi, kita hanya bisa merayakan lewat daring. Sekarang, puji Tuhan, pandemi menuju endemi. Kita bisa kumpul kembali merayakannya,” kata Uci Flowdea yang berencana merilis lagu rohani baru.",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Catatan Uci Flowdea Soal Paskah 2023, Berbagi Kesaksian ke Jemaat dan Tuang Romantika Hidup Lewat Lagu",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: 'Diberitakan sebelumnya, Uci Flowdea melahirkan sejumlah lagu rohani antara lain, “Pemilik Hidupku,” “Berjalan BersamaMu,” “Kau Allah Yang Hidup,” dan “Menolak untuk Menyerah.” Oktober 2021, ia digelari Wanita Panutan 2022 versi Registry dan Yayasan Duta Indonesia Maju dari Kementerian Pemberdayaan Perempuan dan Perlindungan Anak Republik Indonesia.' },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: "“Yang terjadi dalam hidup, saya bagikan untuk semua jemaat agar mereka bisa kuat dalam menjalaninya. Termasuk melalui pujian atau lagu yang saya nyanyikan,” ia menyambung.",
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: "Uci Flowdea meyakini pengalaman hidup juga bisa menjadi kesaksian bagi orang lain. Tak harus disampaikan dalam format cerita, perjalanan hidup bisa dituangkan lewat lirik dan lagu.",
       },
     ],
-  },
-  {
-    id: 5,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "music",
-    title: "kamu kalau kaya mau ga anaknya 7?",
-    authorName: "fanfan",
-    authorImg: "../images/author.jpg",
-    time: "25 June 2023",
-    date: "25 June 2023",
-    comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
-    desclengkap: [
-      {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
-      },
-      {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
-      {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
-      },
-    ],
-    details: [
-      {
-        title: "Starting a new company is easy",
-      },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
-      },
-    ],
-  },
-  {
-    id: 6,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "music",
-    title: "kamu kalau kaya mau ga anaknya 7?",
-    authorName: "fanfan",
-    authorImg: "../images/author.jpg",
-    time: "25 June 2023",
-    date: "25 June 2023",
-    comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
-    desclengkap: [
-      {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
-      },
-      {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
-      {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
-      },
-    ],
-    details: [
-      {
-        title: "Starting a new company is easy",
-      },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
-      },
-    ],
-  },
- 
+  }, 
 ]
 
 
 export const ppost = [
   {
     id: 1,
-    cover: "../images/popular/popu1.jpg",
-    catgeory: "sosial",
-    title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
+    cover: "../images/ppost/megawati.jpg",
+    catgeory: "politic",
+    title: "Megawati Bela Kebijakan Ganjar Tolak Israel di Piala Dunia U-20",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
-    time: "23 Maret 2023 11:30",
-    date: "23 Maret 2023",
+    time: "23 April 2023 17:00",
+    date: "23 April 2023",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     comments: 32,
     desc: [
       {
-        para1: "Peneliti Badan Riset dan Inovasi Nasional (BRIN) Andi Pangerang Hasanuddin berkomentar soal Muhammadiyah yang tidak sejalan dengan pemerintah terkait perbedaan penentuan Hari Raya Idul Fitri 1444 Hijriyah. ",
+        para1: "Ketua Umum PDI-Perjuangan Megawati Soekarnoputri menyinggung kebijakan calon presiden usunganya, Ganjar Pranowo yang menolak Israel di Piala Dunia U-20. Kebijakan ini pun berujung pada batalnya Indonesia sebagai tuan rumah Piala Dunia. Megawati menyayangkan sikap masyarakat Indonesia yang langsung mem-bully Ganjar, padahal kebijakannya sejalan dengan konstitusi pancasila yang dianut Indonesia.",
       },
       {
-        para2: "Dia berkomentar di unggahan Facebook milik peneliti BRIN Prof Thomas Djamaluddin. Thomas menulis komentar terkait perbedaan Lebaran. .",
+        para2: "“Waktu Pak Ganjar urusan Israel woh langsung di-bully bla bla, karena kalian enggak beri pelajaran ke rakyat Indonesia kenapa sih (kebijakan itu diambil)? Main (Piala Dunia U-20) boleh kita setuju tapi ada yang harus lebih dipikirkan, tapi itu konstitusi loh,” kata Megawati usai menggelar pertemuan tertutup dengan Plt Ketum PPP Muhammad Mardiono dan Ganjar Pranowo di Kantor DPP PDIP, Jakarta Pusat Minggu (30/4).",
       },
       {
-        para3: "Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.",
+        para3: "Megawati sendiri tegas menolak dua hal selama Pancasila masih menjadi pedoman, yaitu mendukung kemerdekaan Palestina dan menolak hubungan diplomatis dengan Israel dan Taiwan.",
       },
     ],
     details: [
       {
-        title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
+        title: "Megawati Bela Kebijakan Ganjar Tolak Israel di Piala Dunia U-20",
       },
-      { para1: '"Eh, masih minta difasilitasi tempat sholat Id. Pemerintah pun memberikan fasilitas," tulis Thomas. Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.' },
+      { para1: 'Megawati tidak ambil pusing mengenai hasil survei yang menunjukkan penurunan angka pendukung capres usungannya itu. Sebab, menurutnya, langkah yang diambil Ganjar sudah benar.' },
       {
-        quote: '"Perlu saya halalkan gak nih darahnya semua Muhammadiyah? Apalagi Muhammadiyah yang disusupi Hizbut Tahrir melalui agenda kalender Islam global dari Gema Pembebasan? Banyak bacot emang!!! Sini saya bunuh kalian satu-satu. Silakan laporkan komen saya dengan ancaman pasal pembunuhan! Saya siap dipenjara. Saya capek lihat pergaduhan kalian," kata Andi.',
-      },
-      {
-        para2: 'Thomas  yang merupakan mantan kepala Lembaga Penerbangan dan Antariksa Nasional (Lapan) itu membenarkan bahwa komentar tersebut berasal dari unggahan di akun Facebooknya. Dia juga mengatakan AP Hasanuddin merupakan peneliti BRIN."AP Hasanuddin itu junior saya di BRIN. Dia membalas komentar saya," ucap Thomas saat dikonfirmas',
+        quote: '“Jadi bukan Pak Ganjar ono surveinya tuiing. Halah itu statistik, nanti deh liat rebound. Rakyat nggak bisa dikendalikan, punya mata hati,” tuturnya.',
       },
       {
-        para3: 'Thomas mengatakan saat ini sedang mengecek unggahan yang dikomentari dia dan AP Hasanuddin untuk mengetahui konteksnya. "Saya masih cari-cari ini diunggahan apa, tapi belum ketemu," jelasnya."',
+        para2: 'Dalam survei Saiful Mujani Research and Consulting (SMRC) yang dilakukan 25-28 April, menunjukkan elektabilitas Ganjar kembali meningkat.',
+      },
+      {
+        para3: 'Dukungan kepada Gubernur Jawa Tengah itu melonjak setelah PDI-P mengumumkan bakal mengusungnya maju dalam Pilpres 2024 nanti.Thomas mengatakan saat ini sedang mengecek unggahan yang dikomentari dia dan AP Hasanuddin untuk mengetahui konteksnya. "Saya masih cari-cari ini diunggahan apa, tapi belum ketemu," jelasnya."',
       },
     ],
   },
   {
     id: 2,
-    cover: "../images/hero/jalantol1.jpg",
+    cover: "../images/ppost/andi.jpg",
     catgeory: "sosial",
-    title: "anjayani anjuy",
+    title: "Bareskrim Tangkap AP Hasanuddin Terkait Postingan 'Bunuh Muhammadiyah'",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
-    time: "23 Maret 2023 11:30",
-    date: "23 Maret 2023",
-    comments: 32,
+    time: "30 Maret 2023 11:30",
+    date: "30 Maret 2023",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
+    comments: 2000,
     desc: [
       {
-        para1: "Peneliti Badan Riset dan Inovasi Nasional (BRIN) Andi Pangerang Hasanuddin berkomentar soal Muhammadiyah yang tidak sejalan dengan pemerintah terkait perbedaan penentuan Hari Raya Idul Fitri 1444 Hijriyah. ",
+        para1: "Peneliti BRIN, Andi Pangerang (AP) Hasanuddin, ditangkap Bareskrim Polri terkait komentar ancaman pembunuhan di media sosial terhadap warga Muhammadiyah.",
       },
       {
-        para2: "Dia berkomentar di unggahan Facebook milik peneliti BRIN Prof Thomas Djamaluddin. Thomas menulis komentar terkait perbedaan Lebaran. .",
+        para2: 'Dirtipidsiber Bareskrim Polri, Brigjen Adi Vivid, membenarkan informasi tersebut. Dia mengatakan, Andi ditangkap di daerah Jombang, Jawa Timur, Minggu (30/4) "Benar bahwa Penyidik Direktorat Siber Bareskrim Polri hari ini Minggu 30 April 2023 telah melakukan penangkapan terhadap saudara AP di daerah Jombang atas perkara yang dilaporkan oleh pelapor dalam hal ini Muhammadiyah," kata Vivid saat dihubungi.',
       },
       {
-        para3: "Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.",
+        para3: "Sebelumnya, komentar berbau ancaman itu berawal dari unggahan Facebook milik peneliti BRIN Prof Thomas Djamaluddin. Thomas juga menulis komentar terkait perbedaan Lebaran.",
       },
     ],
     details: [
       {
         title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
       },
-      { para1: '"Eh, masih minta difasilitasi tempat sholat Id. Pemerintah pun memberikan fasilitas," tulis Thomas. Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.' },
+      { para1: '"Ya, sudah tidak taat keputusan pemeritah, eh, masih minta difasilitasi tempat salat Id. Pemerintah pun memberikan fasilitas,"' },
       {
-        quote: '"Perlu saya halalkan gak nih darahnya semua Muhammadiyah? Apalagi Muhammadiyah yang disusupi Hizbut Tahrir melalui agenda kalender Islam global dari Gema Pembebasan? Banyak bacot emang!!! Sini saya bunuh kalian satu-satu. Silakan laporkan komen saya dengan ancaman pasal pembunuhan! Saya siap dipenjara. Saya capek lihat pergaduhan kalian," kata Andi.',
+        quote: 'AP Hasanuddin merespons : "Perlu saya halalkan gak nih darahnya semua Muhammadiyah? Apalagi Muhammadiyah yang disusupi Hizbut Tahrir melalui agenda kalender Islam global dari Gema Pembebasan? Banyak bacot emang!!! Sini saya bunuh kalian satu-satu. Silakan laporkan komen saya dengan ancaman pasal pembunuhan! Saya siap dipenjara. Saya capek lihat pergaduhan kalian," tulis Andi di kolom komentar.',
       },
       {
         para2: 'Thomas  yang merupakan mantan kepala Lembaga Penerbangan dan Antariksa Nasional (Lapan) itu membenarkan bahwa komentar tersebut berasal dari unggahan di akun Facebooknya. Dia juga mengatakan AP Hasanuddin merupakan peneliti BRIN."AP Hasanuddin itu junior saya di BRIN. Dia membalas komentar saya," ucap Thomas saat dikonfirmas',
       },
       {
-        para3: 'Thomas mengatakan saat ini sedang mengecek unggahan yang dikomentari dia dan AP Hasanuddin untuk mengetahui konteksnya. "Saya masih cari-cari ini diunggahan apa, tapi belum ketemu," jelasnya."',
+        para3: 'Baik Thomas maupun AP Hasanuddin sudah menyampaikan permohonan maaf.',
       },
     ],
   },
@@ -1524,6 +1455,9 @@ export const ppost = [
     authorImg: "../images/author.jpg",
     time: "23 Maret 2023 11:30",
     date: "23 Maret 2023",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     comments: 32,
     desc: [
       {
@@ -1554,57 +1488,40 @@ export const ppost = [
   },
   {
     id: 4,
-    cover: "../images/popular/popu1.jpg",
+    cover: "../images/ppost/waskita.jpg",
     catgeory: "sosial",
-    title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
+    title: "Dirut Waskita Karya Tersangka Korupsi, Pengawasan Dewan Komisaris Dipertanyakan",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
-    time: "23 Maret 2023 11:30",
-    date: "23 Maret 2023",
-    comments: 32,
+    time: "23 Januari 2023 11:30",
+    date: "23 Januari 2023",
+    comments: 320,
     desc: [
       {
-        para1: "Peneliti Badan Riset dan Inovasi Nasional (BRIN) Andi Pangerang Hasanuddin berkomentar soal Muhammadiyah yang tidak sejalan dengan pemerintah terkait perbedaan penentuan Hari Raya Idul Fitri 1444 Hijriyah. ",
+        para1: "Satu per satu jajaran direksi PT Waskita Karya (Persero) Tbk (WSKT) terjerat tindak pidana korupsi. Terbaru, Kejaksaan Agung (Kejagung) menetapkan Direktur Utama Waskita Karya, Destiawan Suwardjono, sebagai tersangka.",
       },
       {
-        para2: "Dia berkomentar di unggahan Facebook milik peneliti BRIN Prof Thomas Djamaluddin. Thomas menulis komentar terkait perbedaan Lebaran. .",
+        para2: "Destiawan dijerat sebagai tersangka kasus dugaan korupsi dalam penyimpangan penggunaan fasilitas pembiayaan dari beberapa bank yang dilakukan oleh PT Waskita Karya (Persero) Tbk. dan PT Waskita Beton Precast, Tbk.",
       },
       {
-        para3: "Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.",
+        para3: 'Tidak hanya sang Dirut, pihak Kejagung yang telah melakukan penyidikan kasus dugaan korupsi proyek fiktif pada PT Waskita Beton Precast Tahun 2016-2020. telah menetapkan 4 tersangka, yaitu: Agus Wantoro selaku Pensiunan PT. Waskita Beton Precast. Dia pernah menjabat sebagai Direktur Pemasaran periode 2016 sampai 2020. Agus Prihatmono selaku General Manager Pemasaran PT Waskita Beton Precast periode 2016 sampai Agustus 2020. Benny Prastowo selaku Staf Ahli Pemasaran (expert) PT Waskita Beton Precast. Anugrianto selaku Pensiunan Karyawan PT. Waskita Beton Precast.',
       },
     ],
     details: [
       {
-        title: "Heboh Komentar Peneliti BRIN Ancam Bunuh Warga Muhammadiyah",
+        title: "Pengawasan Dinilai Hanya Omong Kosong",
       },
-      { para1: '"Eh, masih minta difasilitasi tempat sholat Id. Pemerintah pun memberikan fasilitas," tulis Thomas. Status Thomas mendapat respons dari juniornya. Melalui akun AP Hasanuddin, ia menuliskan kemarahan atas sikap Muhammadiyah.' },
+      { para1: 'Associate Director BUMN Research Group Lembaga Management FEB UI, Toto Pranoto, menyoroti peran Dewan Komisaris Waskita Karya yang gagal mengendus kasus korupsi di tubuh perseroan.' },
       {
-        quote: '"Perlu saya halalkan gak nih darahnya semua Muhammadiyah? Apalagi Muhammadiyah yang disusupi Hizbut Tahrir melalui agenda kalender Islam global dari Gema Pembebasan? Banyak bacot emang!!! Sini saya bunuh kalian satu-satu. Silakan laporkan komen saya dengan ancaman pasal pembunuhan! Saya siap dipenjara. Saya capek lihat pergaduhan kalian," kata Andi.',
-      },
-      {
-        para2: 'Thomas  yang merupakan mantan kepala Lembaga Penerbangan dan Antariksa Nasional (Lapan) itu membenarkan bahwa komentar tersebut berasal dari unggahan di akun Facebooknya. Dia juga mengatakan AP Hasanuddin merupakan peneliti BRIN."AP Hasanuddin itu junior saya di BRIN. Dia membalas komentar saya," ucap Thomas saat dikonfirmas',
+        quote: '"Jadi semua mekanisme pengawasan kelihatannya tidak berfungsi. Jargon three lines of defense hanya pepesan kosong saja," tegas dia.',
       },
       {
-        para3: 'Thomas mengatakan saat ini sedang mengecek unggahan yang dikomentari dia dan AP Hasanuddin untuk mengetahui konteksnya. "Saya masih cari-cari ini diunggahan apa, tapi belum ketemu," jelasnya."',
+        para2: 'Toto menambahkan, selain dari sisi pengawasan internal oleh jajaran komisaris, pengawasan eksternal yang dilakukan kantor akuntan publik (KAP) juga dinilai tidak berpengaruh apa-apa.',
+      },
+      {
+        para3: 'Sementara itu, Direktur Eksekutif BUMN Institute, Achmad Yunus, menilai perlu ada evaluasi terhadap sistem rekrutmen direksi BUMN. Menurut dia, Kementerian BUMN memiliki tanggung jawab penuh atas kasus korupsi Waskita Karya.',
       },
     ],
-  },
-]
-export const tpost = [
-  {
-    id: 1,
-    title: "US Promises to give Intel aid to locate the soldiers",
-    cover: "../images/tpost/tpost.webp",
-  },
-  {
-    id: 2,
-    title: "Renewable energy dead as industry waits for Policy",
-    cover: "../images/tpost/tpost2.jpg",
-  },
-  {
-    id: 3,
-    title: "Mount Etna erupts fashion in nice looking pictures",
-    cover: "../images/tpost/tpost3.jpg",
   },
 ]
 
