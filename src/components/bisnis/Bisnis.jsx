@@ -7,7 +7,7 @@ const Bisnis = () => {
   return (
     <>
     <Herobisnis />
-    <HomeBisnis />  
+    <HomeBisnis />
   </>
   )
 }

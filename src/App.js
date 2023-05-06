@@ -8,13 +8,11 @@ import EnterPageHero from "./components/Page/enterpagehero/EnterPageHero"
 import BisnisPageHero from "./components/Page/bisnispagehero/BisnisPageHero"
 import TeknonSainsPageHero from "./components/Page/teknonsainspagehero/TeknonSainsPageHero"
 import BolanSportsPageHero from "./components/Page/bolansportspagehero/BolanSportsPageHero"
-import FoodnTravelPageHero from "./components/Page/foodntravelpagehero/FoodnTravelPageHero"
 
 import Entertaiment from "./components/entertaiment/Entertaiment"
 import Bisnis from "./components/bisnis/Bisnis"
 import TeknonSains from "./components/teknonsains/TeknonSains"
 import BolanSports from "./components/bolansports/BolanSports"
-import FoodnTravel from "./components/foodntravel/FoodnTravel"
 
 
 import SinglePage from "./components/Page/singlePage/SinglePage"
@@ -25,7 +23,6 @@ import EnterPage from "./components/Page/enterpage/EnterPage"
 import BisnisPage from "./components/Page/bisnispage/BisnisPage"
 import TeknonSainsPage from "./components/Page/teknonsainspage/TeknonSainsPage"
 import BolanSportsPage from "./components/Page/bolansportspage/BolanSportsPage"
-import FoodnTravelPage from "./components/Page/foodntravelpage/FoodnTravelPage"
 
 
 const App = () => {
@@ -39,14 +36,12 @@ const App = () => {
           <Route exact path='/bisnis' component={Bisnis} />
           <Route exact path='/teknonsains' component={TeknonSains} />
           <Route exact path='/bolansports' component={BolanSports} />
-          <Route exact path='/foodntravel' component={FoodnTravel} />
 
           
           <Route path='/enterpagehero/:id' exact component={EnterPageHero} />
           <Route path='/bisnispagehero/:id' exact component={BisnisPageHero} />
           <Route path='/teknonsainspagehero/:id' exact component={TeknonSainsPageHero} />
           <Route path='/bolansportspagehero/:id' exact component={BolanSportsPageHero} />
-          <Route path='/foodntravelpagehero/:id' exact component={FoodnTravelPageHero} />
           
           <Route path='/singlepage/:id' exact component={SinglePage} />
           <Route path='/secondpage/:id' exact component={SecondPage} />
@@ -56,7 +51,6 @@ const App = () => {
           <Route path='/bisnispage/:id' exact component={BisnisPage} />
           <Route path='/teknonsainspage/:id' exact component={TeknonSainsPage} />
           <Route path='/bolansportspage/:id' exact component={BolanSportsPage} />
-          <Route path='/foodntravelpage/:id' exact component={FoodnTravelPage} />
 
 
           

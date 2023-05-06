@@ -73,10 +73,10 @@
   background-color: crimson;
 }
 .herobisnis .box:nth-child(2) .category {
-  background-color: #0b9931;
+  background-color: crimson;
 }
 .herobisnis .box:nth-child(4) .category {
-  background-color: #c78823;
+  background-color: crimson;
 }
 @media screen and (max-width: 768px) {
   .herobisnis .container {

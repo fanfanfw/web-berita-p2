@@ -28,9 +28,6 @@ const Header = () => {
               <li>
                 <Link to='/bolansports'>Bola & Sports</Link>
               </li>
-              <li>
-                <Link to='/foodntravel'>Food & Travel</Link>
-              </li>
             </ul>
             <button className='barIcon' onClick={() => setNavbar(!navbar)}>
               {navbar ? <i className='fa fa-times'></i> : <i className='fa fa-bars'></i>}

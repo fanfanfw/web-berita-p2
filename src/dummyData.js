@@ -127,141 +127,149 @@ export const hero = [
 export const heroenter = [
   {
     id: 1,
-    cover: "../images/hero/hero1.jpg",
+    cover: "../images/enter/tiara.jpg",
     catgeory: "featured",
-    title: "Andalan saya ini selalu menjadi andalan semua orang",
+    title: "Tiara Andini Hanya Tersenyum Disinggung soal Perceraian Alshad Ahmad",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
     time: "5 Jun - 2022",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     desc: [
       {
-        para1: "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
+        para1: "Penyanyi Tiara Andini enggan menanggapi pertanyaan mengenai Alshad Ahmad. Ya, Alshad yang selama ini diketahui dekat dengan Tiara memang diketahui sempat cerai dari wanita bernama Nissa Asyifa.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
-      {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para2: "Ketika keluar pun Tiara mengenakan hoodie dan kacamata hitam agar tidak terlalu ketahuan. Ada pula tim yang menjaga Tiara dari kejaran awak media.",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Tiara Andini Tersenyum Ditanya soal Alshad Ahmad",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: 'Selama ditanya-tanya awak media, Tiara hanya tersenyum. Ia tidak melontarkan satu kata pun sampai masuk ke mobil. Sebelumnya, Tiara melakukan hal yang sama ketika awak media diberi kesempatan untuk meliput proses latihan jelang konser Yovie Widianto. Kala itu, Tiara hadir, namun langsung kabur dengan sangat cepat usai latihan.' },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: "Hingga pada 11 November 2022, Alshad mengajukan permohonan isbat nikah dan talak cerai kepada Nissa ke Pengadilan Agama Bandung. Isbat nikah itu meresmikan pernikahan keduanya sah secara negara pada 30 November 2022.",
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: "Tiara dan Alshad diketahui mulai dekat sejak Maret 2022. Mereka sempat dikabarkan putus pada November 2022 di mana Tiara membuat unggahan soal perselingkuhan.",
+      },
+      {
+        para3: "Satu bulan berselang, Alshad dan Tiara melakukan ibadah umrah bersama. Ini jadi isyarat keduanya telah kembali bersama.",
       },
     ],
   },
   {
     id: 2,
-    cover: "../images/hero/hero2.jpg",
-    catgeory: "bola & sport",
-    title: "dalidnsalkdlkankdlnawlkndlkanwdlkn",
-    authorName: "alex",
+    cover: "../images/enter/taylor.jpg",
+    catgeory: "Featured",
+    title: "Putus dari Joe Alwyn, Taylor Swift Diisukan Pacaran dengan Matty Healy The 1975",
+    authorName: "Fan Fan",
     authorImg: "../images/author.jpg",
-    time: "12 Aug - 2022",
+    time: "12 Aug - 2023",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     desc: [
       {
-        para1: "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
+        para1: "Taylor Swift dikabarkan sudah move on dari Joe Alwyn. Baru beberapa minggu putus, ia diisukan telah memiliki kekasih baru.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Pelantun lagu Back to December tersebut diisukan berpacaran dengan Matty Healy, vokalis band The 1975. Sebelumnya, mereka sudah pernah berpacaran sekitar 10 tahun lalu",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: '"Dia dan Matty sedang jatuh cinta. Ini masih sangat awal, tapi rasanya pas," ucap salah satu sumber dikutip dari The Sun.',
       },
     ],
     details: [
       {
         title: "Starting a new company is easy",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: "Sumber tersebut juga membahas soal jalinan asmara antara Swift dan Healy pada 2014. Namun, saat itu, hubungan mereka tak bertahan lama." },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
+        quote: '"Keduanya pernah pacaran, singkat, sekitar 10 tahun lalu. Kala itu waktunya tidak pas," ujar sumber itu.',
       },
       {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        para2: "Kemudian, sumber itu pun menegaskan soal hubungan Taylor Swift dan Joe Alwyn yang sudah benar-benar selesai.",
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
-      },
+        para3: '"Taylor dan Joe sebenarnya berpisah pada bulan Februari, jadi sama sekali tidak ada persilangan," tuturnya.',},
     ],
   },
   {
     id: 3,
-    cover: "../images/hero/hero3.jpg",
-    catgeory: "fashion",
-    title: "pppppppppppppppppppppppppppppppppppppppppppppppppp",
-    authorName: "rina",
+    cover: "../images/enter/daus.jpg",
+    catgeory: "feratured",
+    title: "Tak Trauma Meski 3 Kali Gagal Nikah, Daus Mini: Cover Boy Mah Bebas",
+    authorName: "Fan Fan",
     authorImg: "../images/author.jpg",
-    time: "22 Mar - 2022",
+    time: "22 Mar - 2023",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     desc: [
       {
-        para1: "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
+        para1: "Daus Mini telah resmi bercerai dengan Shelvie Hana. Ini adalah kali ketiga dirinya gagal membina rumah tangga.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Meski sudah tiga kali mengalami perceraian, Daus Mini ternyata tak trauma dengan pernikahan. Ia mengatakan hal tersebut sembari bercanda.",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: '"Cover boy enggak (trauma) dong. Tapi, bukan sama bini orang ya," ungkap Daus Mini ketika dijumpai di kawasan Mampang, Jakarta Selatan, Rabu (3/5).',
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Daus Mini: Cover Boy Mah Bebas",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: "Komedian berusia 36 tahun itu kemudian mengaku bahwa dirinya sudah mulai didekati sejumlah wanita. Ia menegaskan, wanita itu tak memiliki pasangan." },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: "Cover Boy Mah Bebas",
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: '"Oh banyak (yang mendekati), cover boy mah banyak. Yang penting statusnya single, bukan bini orang," katanya.Kendati demikian, Daus Mini tak ingin terburu-buru menikah lagi. Ia ingin menikmati kesendiriannya terlebih dahulu.',
+      },
+      {
+        para3: '"Semoga insyaallah kalau untuk menikah nanti saja. Sekarang mah lagi fokus dulu kebahagiaan ini buat orang tua," tuturnya.',
       },
     ],
   },
   {
     id: 4,
-    cover: "../images/hero/hero4.jpg",
-    catgeory: "technology",
-    title: "Emma Watson stands up for Turkish women",
-    authorName: "sunil",
+    cover: "../images/enter/rihana.jpg",
+    catgeory: "featured",
+    title: "Rihanna Ungkap Perbedaan yang Dirasakan saat Hamil Anak Kedua",
+    authorName: "Fan Fan",
     authorImg: "../images/author.jpg",
-    time: "08 Dec - 2022",
+    time: "08 Dec - 2023",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     desc: [
       {
-        para1: "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
+        para1: "Penyanyi Rihanna mendatangi perhelatan Met Gala 2023 yang digelar pada Senin (1/5). Tak sendiri, ia tampil bersama sang kekasih, A$AP Rocky.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Pelantun lagu Umbrella tersebut tampak anggun mengenakan dress serba putih bermotif bunga-bunga. Tak lupa, ia memamerkan baby bump-nya saat berpose di depan kamera.",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: "Di perhelatan tersebut, Rihanna sempat menceritakan soal kehamilan keduanya kepada Entertainment Tonight. Ia mengaku kehamilannya saat ini sangat berbeda dengan yang pertama.",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Rihanna Ungkap Perbedaan yang Dirasakan saat Hamil Anak Kedua",
       },
       { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
+        quote: '"Beda banget. (Hamil kali ini) enggak ngidam, banyak mual. Semua berbeda, tapi aku menikmatinya," ujar Rihanna.',
       },
       {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        para2: '"Aku merasa baik. Aku merasa energik," imbuhnya. Dalam momen itu, penyanyi berusia 35 tahun tersebut juga membahas tentang anak pertamanya. Ia begitu jatuh cinta dengan putranya tersebut.',
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para3: '"Aku jatuh cinta. Aku terobsesi, dan aku tidak menyesalinya," ucap Rihanna. "Dia tumbuh besar. Dia bayi yang tampan dan bahagia," timpal A$AP Rocky, di kesempatan yang sama. Rihanna dan A$AP diketahui mulai berkencan sejak 2020. Sebelumnya, mereka memang sempat berteman baik selama bertahun-tahun.',
       },
     ],
   },
@@ -270,141 +278,147 @@ export const heroenter = [
 export const herobisnis = [
   {
     id: 1,
-    cover: "../images/hero/hero1.jpg",
+    cover: "../images/bisnis/erik.jpg",
     catgeory: "featured",
-    title: "Ini adalah bisnis terbaik keluarga saya yang diberikan",
-    authorName: "fanfan",
+    title: "Rencana Erick Ini Buat Saham BUMN Karya Kompak Menguat, Usai Anjlok 2 Hari",
+    authorName: "fan fan",
     authorImg: "../images/author.jpg",
     time: "5 Jun - 2022",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     desc: [
       {
-        para1: "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
+        para1: "Emiten sektor BUMN Karya kompak menguat. Hal ini dipengaruhi oleh rencana Kementerian BUMN yang ingin merampingkan BUMN Karya dari mulanya 9 menjadi 4 perusahaan.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Di mana, salah satu yang akan digabung adalah  PT Waskita Karya (Persero) Tbk dengan PT Hutama Karya (Persero). Erick menilai, BUMN Karya yang banyak terlilit utang jumbo sudah semakin sehat.",
       },
       { 
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: 'Buktinya, proyek atau penugasan perusahaan-perusahaan tersebut masih bisa berjalan dan pembayaran utang sudah dimulai. Hal ini pun turut mengerek saham-saham  BUMN Karya yang tercatat di Bursa Efek Indonesia (BEI). Di mana,  selama 2 hari Kemarin, sektor BUMN Karya ini ikut tertekan imbas Direktur Utama Waskita Karya, Destiawan Soewardjono, ditetapkan sebagai tersangka oleh Kejagung.',
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Begini Rencana Erick Thohir Rampingkan BUMN Karya",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: "Erick memaparkan, rencana konsolidasi BUMN Karya ini yaitu PT Hutama Karya (Persero) akan digabungkan dengan PT Waskita Karya (Persero), kemudian PT PP (Persero) dengan PT Wijaya Karya (Persero) atau WIKA." },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: "Selanjutnya, BUMN Karya sisanya di bawah PT Perusahaan Pengelola Aset (PPA) dan Danareksa akan dikonsolidasikan dengan mekanisme merger.",
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: '"Konsolidasi karya dipastikan akan terjadi, belum menjadi keputusan tetapi framework-nya yang ada di PPA Danareksa BUMN karya yang kecil-kecil merger, kalau yang besar-besar prosesnya jadi kepemilikan antara HK dengan Waskita, PP dan WIKA," jelas Erick.',
+      },
+      {
+        para3: 'Peleburan BUMN Karya ini akan sesuai dengan keahlian atau expertise, dengan demikian tidak ada perusahaan pelat merah mendapatkan proyek atau penugasan yang terlalu banyak. Meski begitu, Erick memastikan konsolidasi ini tidak menghambat pembangunan, sehingga mekanismenya tidak hanya merger, namun ada juga yang bersifat kepemilikan saham.',
       },
     ],
   },
   {
     id: 2,
-    cover: "../images/hero/hero2.jpg",
-    catgeory: "bola & sport",
-    title: "dalidnxsalkdlkankdlnawlkndlkanwdlkn",
-    authorName: "alex",
+    cover: "../images/bisnis/emil.jpg",
+    catgeory: "featured",
+    title: "Pendapatan Jabar Tembus Rp 7,65 Triliun, Ridwan Kamil: Buat Ngaspal Jalan",
+    authorName: "Fan Fan",
     authorImg: "../images/author.jpg",
     time: "12 Aug - 2022",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     desc: [
       {
-        para1: "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
+        para1: "Realisasi pendapatan Jawa Barat (Jabar) mencapai Rp 7,65 triliun di kuartal I 2023. Jumlah tersebut melebih dari target pemerintah provinsi (Pemprov) yang sebesar Rp 6,93 triliun. ",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Kepala Bapenda Jabar, Dedi Taufik merinci, pendapatan pemprov itu terbesar berasal dari pajak kendaraan yang tembus Rp 54,87 miliar di kuartal I 2023, dengan total kendaraan 50.740 unit. ",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: '"Tren positif berlanjut pada periode 22 Maret hingga 16 April 2023, Bapenda Jabar mendapatkan Rp 54,87 Miliar dari pajak Kendaraan melalui e-Samsat," kata dia melalui keterangannya pada Kamis (4/5). Di mana, Kabupaten Bogor menjadi wilayah dengan jumlah pembayaran pajak kendaraan paling tinggi sejumlah 6.141 lalu disusul dengan Kota Bekasi dengan angka 5.327 unit. ',
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Pendapatan Jabar Tembus Rp 7,65 Triliun, Ridwan Kamil: Buat Ngaspal Jalan",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: '"Pembayaran secara online yang dikerjasamakan dengan perbankan masih didominasi oleh Bank BJB mencapai Rp 51,397 miliar," ujar dia.' },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: "Tiap tahun, Dedi menyebut masyarakat yang membayar pajak melalui e-Samsat pun terus meningkat. Apabila dirinci, tahun 2016 nilai penerimaan e-Samsat mencapai Rp 8,164 miliar dan tahun 2017 mencapai Rp 16,008 miliar.",
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: "Kemudian, pada 2018 senilai Rp 114,839 miliar, tahun 2019 Rp 406,620 miliar, tahun 2020 senilai Rp 547,106 miliar, tahun 2021 senilai Rp 578,992, dan tahun 2022 senilai Rp 685,837 miliar.",
+      },
+      {
+        para3: "Sementara itu, Gubernur Jabar, Ridwan Kamil, mengapresiasi kinerja dari Bapenda Jabar. Menurut dia, pendapatan yang diperoleh begitu penting agar proses pembangunan di Jabar dapat semakin berkembang. Salah satu yang jadi fokus pembangunan yakni terkait dengan pembenahan infrastruktur jalan.",
       },
     ],
   },
   {
     id: 3,
-    cover: "../images/hero/hero3.jpg",
-    catgeory: "fashion",
-    title: "dadali manuk pang badagna",
-    authorName: "rina",
+    cover: "../images/bisnis/rokok.jpg",
+    catgeory: "featured",
+    title: "Tahun Politik, Tarif Cukai Rokok Bisa Berubah Lagi di 2024",
+    authorName: "fan fan",
     authorImg: "../images/author.jpg",
     time: "22 Mar - 2022",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     desc: [
       {
-        para1: "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
+        para1: "Direktorat Jenderal Bea dan Cukai (DJBC) membeberkan, ada kemungkinan tarif cukai hasil tembakau (CHT) atau cukai rokok berubah di tahun 2024. Mengingat, tahun depan merupakan tahun politik.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Kasubdit Tarif Cukai dan Harga Dasar Direktorat Teknis dan Fasilitas Cukai DJBC Kementerian Keuangan (Kemenkeu), Akbar Harfianto, menjelaskan terdapat beberapa faktor yang dapat mengubah tarif cukai rokok. Salah satunya, kondisi industri rokok yang semakin berat.",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: 'Adapun pemerintah memutuskan untuk menaikkan tarif cukai rokok sebesar 10 persen pada tahun 2023 dan 2024. "Kita coba terapkan 10 persen tahun ini, kita tetap monitor nih, setiap bulan kita monitor. Kalau industri ternyata semakin berat bebannya, tidak menutup kemungkinan kalau akan kemudian dilakukan diskusi lagi untuk meng-adjust (mengubah) angka itu," kata Akbar kepada awak media di Hotel Aryaduta, Kamis (4/5).',
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Tahun Politik, Tarif Cukai Rokok Bisa Berubah Lagi di 2024",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: "Akbar bilang, tidak menutup kemungkinan Peraturan Menteri Keuangan (PMK) tentang tarif cukai rokok mengalami perubahan di tahun 2024. Meski begitu, ia memastikan pemerintah tidak akan mengubah tarif cukai rokok jika kondisi industri rokok masih baik." },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        quote: '"Tapi kalau kondisinya kemudian sangat signifikan, industri hancur, dan sebagainya, tidak menutup kemungkinan. Sejauh ini sih masih on track," tegas Akbar.',
       },
     ],
   },
   {
     id: 4,
-    cover: "../images/hero/hero4.jpg",
-    catgeory: "technology",
-    title: "Emma Watson stands up for Turkish women",
-    authorName: "sunil",
+    cover: "../images/bisnis/kemenkeu.jpg",
+    catgeory: "featured",
+    title: "Kemenkeu Pastikan Tindak Lanjuti Laporan Ayah David soal Awasi Mafia Birokrasi",
+    authorName: "fan fan",
     authorImg: "../images/author.jpg",
     time: "08 Dec - 2022",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     desc: [
       {
-        para1: "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
+        para1: "Juru Bicara Kementerian Keuangan (Kemenkeu), Yustinus Prastowo, memastikan siap menindaklanjuti masukan dari Jonathan Latumahina, ayah David Ozora, khususnya terkait mafia birokrasi.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Jonathan menyimpulkan adanya mafia itu saat anaknya berkasus dengan Mario Dandy atau anak dari eks pejabat Ditjen Pajak Rafael Alun Trisambodo.",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: 'Prastowo menegaskan Kemenkeu sangat terbuka terhadap informasi atau masukan yang diberikan masyarakat. Hal tersebut tercermin dari disediakannya layanan pengaduan di laman Whistleblowing System (Wise). Aplikasi tersebut bisa dimanfaatkan masyarakat untuk melaporkan suatu perbuatan terindikasi pelanggaran yang terjadi di lingkungan Kemenkeu.  Pada 2022, Kemenkeu telah menindaklanjuti 185 kasus fraud yang diadukan masyarakat melalui WISE. Sebanyak 96 pegawai telah dijatuhi hukuman disiplin akibat fraud. Lalu, pada 2021, pihaknya juga menindaklanjuti 174 kasus fraud.',
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Kemenkeu Pastikan Tindak Lanjuti Laporan Ayah David soal Awasi Mafia Birokrasi",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: "Jonathan Latumahina melalui cuitannya di Twitter menyebut Rafael Alun Trisambodo merasa bisa menyelesaikan kasus penganiayaan yang melibatkan anaknya, Mario Dandy Satriyo, dengan uang." },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: '"Pejabat eselon 3, Kabag Umum DJP Jaksel. bukan jabatan yang sangat tinggi tapi bisa memainkan kaki-kakinya sampe lintas institusi," tulis Jonathan.',
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: "Jonathan menyebut Rafael Alun adalah mafia birokrasi Kemenkeu. Menurutnya, Rafael Alun juga memiliki jejaring atau geng di instansi yang saat ini dipimpin Sri Mulyani tersebut.",
+      },
+      {
+        para3: '"Mas @prastow, manusia itu berjejaring baik hierarkis maupun hopeng-hopeng WAG. Semboyan mereka: menteri boleh ganti, birokrat hidup abadi," terangnya. "Tolong bener-bener hal ini diseriusin. Jangan cuma berhenti pada dilarang flexing di medsos, yang gak flexing kadang justru mafia besarnya," tambahnya.',
       },
     ],
   },
@@ -413,141 +427,150 @@ export const herobisnis = [
 export const heroteknonsains = [
   {
     id: 1,
-    cover: "../images/hero/hero1.jpg",
+    cover: "../images/tekno/telkomsel.jpg",
     catgeory: "featured",
-    title: "Ini adalah teknologi dan sains terbaik keluarga saya yang diberikan",
-    authorName: "fanfan",
+    title: "Telkomsel Perkuat Jaringan 4G dan 5G Sambut KTT ASEAN di Labuan Bajo",
+    authorName: "fan fan",
     authorImg: "../images/author.jpg",
-    time: "5 Jun - 2022",
+    time: "5 May - 2023",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     desc: [
       {
-        para1: "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
+        para1: "Telkomsel memastikan kelancaran kesiapan konektivitas digital dengan dukungan jaringan broadband berteknologi 4G dan 5G yang optimal selama perhelatan Konferensi Tingkat Tinggi (KTT) ke-42 ASEAN di Labuan Bajo, NTT, yang diselenggarakan pada 9 hingga 11 Mei 2023.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Persiapan dilakukan dengan memfokuskan optimalisasi di 16 area di sekitar Kawan Labuan Bajo. Wilayah tersebut mencakup bandara, penginapan, media center, lokasi acara, serta 5 area di jalur utama antara Labuan Bajo dan Golo Mori. ",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: 'Para tamu negara, delegasi, dan panitia dapat menikmati kapasitas serta kualitas optimal jaringan broadband terkini yang didukung oleh 358 BTS 4G/LTE Telkomsel di seluruh Kabupaten Manggarai Barat. "Dengan turut mendukung komitmen bersama di Kawasan ASEAN dalam mencarikan solusi untuk pemulihan dan kebangkitan tiap negara anggota pasca pandemi, KTT ke-42 ASEAN tahun 2023 di Indonesia menjadi momentum penting bagi bangsa kita untuk dapat terus memperkuat pertumbuhan ekonomi kawasan, terutama pada sektor industri digital,” ungkap Direktur Utama Telkomsel, Hendri Mulya Syam.',
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Telkomsel Perkuat Jaringan 4G dan 5G Sambut KTT ASEAN di Labuan Bajo",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: "Telkomsel juga meningkatkan cakupan jaringan di Kawasan ITDC Golo Mori dan sekitarnya dengan mengoperasikan 10 unit Compact Mobile BTS (COMBAT) dan 24 unit BTS tambahan yang mana 6 unit BTS di antaranya adalah BTS 5G. " },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: "Untuk sejumlah pertemuan yang akan berlangsung di atas kapal phinisi, termasuk KM Sinabung yang akan dijadikan penginapan sementara awak media asing, optimalisasi jaringan juga dilakukan di seluruh BTS di sepanjang jalur laut antara Labuan Bajo dan Pulau Rinca. Selain itu, instalasi Telkomsel Orbit pun telah dilakukan di dalam kapal dan tambahan COMBAT disiagakan di Pulau Rinca.",
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: "Telkomsel juga menjamin layanan dan produknya tersedia selama acara, dengan menyediakan sejumlah Kartu Prabayar Tourist Edisi KTT ASEAN 2023 dan membuka 10 titik layanan di Area Bandara Komodo, sejumlah penginapan, media center, hingga GraPARI Marina yang berlokasi di dekat Hotel Meruorah sebagai venue acara utama.",
+      },
+      {
+        para3: "Produk ini seperti Kartu Prabayar Tourist Edisi KTT ASEAN 2023 dengan kuota data hingga 100 GB yang akan didistribusikan kepada para tamu negara, delegasi, hingga panitia dari 11 negara anggota ASEAN.",
       },
     ],
   },
   {
     id: 2,
-    cover: "../images/hero/hero2.jpg",
-    catgeory: "bola & sport",
-    title: "Teknonlogi paling besar abad ini",
-    authorName: "alex",
+    cover: "../images/tekno/pixelf.jpg",
+    catgeory: "featured",
+    title: "Google Resmi Umumkan Pixel Fold di Google I/O, HP Lipat Pertama Mereka",
+    authorName: "fan fan",
     authorImg: "../images/author.jpg",
-    time: "12 Aug - 2022",
+    time: "12 Feb - 2023",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     desc: [
       {
-        para1: "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
+        para1: "Google mengonfirmasi rumor yang selama ini beredar terkait ponsel lipat pertama mereka, Pixel Fold. Foldable phone ini akan diluncurkan pada pergelaran Google I/O, yang dilaksanakan 10 Mei 2023 nanti.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Tweet dari akun Made by Google memposting sebuah video Pixel Fold pada Kamis, 4 Mei 2023, dengan caption “May The Fold Be With You.”",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: "Video tersebut hanya menunjukkan sekilas penampakan bodi Pixel Fold, dan tampilan interface berandanya.",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Spesifikasi Google Fold",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: "Di video itu, tidak disinggung sama sekali soal spesifikasi. Berdasarkan laporan CNBC, Pixel Fold akan punya layar cover seluas 5,8 inci dan layar full terbuka 7,6 inci—sama dengan Samsung Z Fold." },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: "Beratnya sekitar 283 gram, lebih berat dari kompetitor Samsung. Pixel Fold menawarkan baterai yang lebih tahan lama, hingga 24 jam penggunaan tipikal, atau 72 jam mode hemat daya.",
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: "Sayangnya, jika sesuai dengan yang tertulis di dokumen, Pixel Fold akan menggunakan chip Google Tensor G2, chip yang sama dengan Pixel 7 Series yang masih tertinggal dengan chip ponsel flagship seperti Snapdragon 8 Gen 2.",
+      },
+      {
+        para3: "Google Pixel Fold disebut bakal dibanderol 1.700 dolar AS, atau sekitar Rp 25,4 juta (kurs Rp 14,974.6). Perangkat juga disebut tahan air, seperti HP layar lipat Samsung.",
       },
     ],
   },
   {
     id: 3,
-    cover: "../images/hero/hero3.jpg",
-    catgeory: "fashion",
-    title: "dadali manuk pang badagna",
-    authorName: "rina",
+    cover: "../images/tekno/xl.jpg",
+    catgeory: "featured",
+    title: "XL Axiata Tunjuk Feiruz Ikhwan Jadi CFO",
+    authorName: "fan fan",
     authorImg: "../images/author.jpg",
-    time: "22 Mar - 2022",
+    time: "22 Mar - 2023",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     desc: [
       {
-        para1: "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
+        para1: "XL Axiata resmi menunjuk Feiruz Ikhwan sebagai Direktur & Chief Financial Officer terbarunya. Feiruz menggantikan Budi Pramantika yang mengundurkan diri per 6 Maret 2023 lalu.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Pelantikan Feiruz ditetapkan dalam Rapat Umum Pemegang Saham (RUPS) Tahunan 2023 yang diselenggarakan di Jakarta, Jumat (5/5).",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: '"Ke depannya Pak Feiruz (Ikhwan) ini akan menggantikan Pak Budi (Pramantika) untuk memberikan update-update khususnya mengenai kondisi keuangan atau hasil financial kami," kata Dian kepada media di gedung XL Axiata Tower, Jakarta.',
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "XL Axiata Tunjuk Feiruz Ikhwan Jadi CFO",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: "Operator seluler itu mengatakan Feiruz Ikhwan merupakan seorang profesional yang sebelumnya berkarier di sejumlah perusahaan di bawah Axiata Grup, termasuk di XL Axiata. Sebelum bergabung kembali ke XL Axiata, Feiruz menjabat sebagai Chief Financial Officer dan Act CEO Smart Axiata di Kamboja." },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: "Dalam kesempatan ini saya ingin memperkenalkan direksi kami yang baru yang tadi disahkan di dalam RUPS yaitu Direktur Finance Bapak Feiruz Ikhwan. - Dian Siswarini, Presiden Direktur XL Axiata -",
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: "Feiruz ditunjuk untuk menggantikan Budi Pramantika yang menjabat sebagai Direktur Keuangan XL Axiata sejak Oktober 2020. Sebelumnya perusahaan mengatakan Budi mengundurkan diri dengan alasan pribadi.",
+      },
+      {
+        para3: '"Saya mengucapkan terima kasih kepada Budi Pramantika atas kontribusinya yang luar biasa kepada kemajuan PT XL Axiata selama yang bersangkutan bekerja di XL," tambahnya.',
       },
     ],
   },
   {
     id: 4,
-    cover: "../images/hero/hero4.jpg",
-    catgeory: "technology",
-    title: "Emma Watson stands up for Turkish women",
-    authorName: "sunil",
+    cover: "../images/tekno/gmail.jpg",
+    catgeory: "featured",
+    title: "Gmail Punya Centang Biru Mirip Twitter, Bantu Deteksi Email Spam Penipuan",
+    authorName: "fan fan",
     authorImg: "../images/author.jpg",
     time: "08 Dec - 2022",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     desc: [
       {
-        para1: "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
+        para1: "Google mengumumkan menghadirkan centang biru di layanan surat elektroniknya, Gmail. Fitur baru mirip Twitter dan Instagram ini menjadi tahap lanjutan verisikasi email pengguna dan pelanggan.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Centang biru di Gmail, kata Google, bisa membantu pengguna mengidentifikasi si pengirim email. Ini juga menekankan autentikasi alamat untuk menghindari spam dan upaya penipuan yang menggunakan nama brand.",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: "Centang biru ini sendiri merupakan lanjutan sistem verifikasi alamat email Brand Indicators for Message Identification (BIMI) yang mulai diuji sejak 2020. BIMI akan membutuhkan masing-masing akun untuk mengikuti tahap Domain-based Message Authentication serta  verifikasi hak cipta logonya.",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Gmail Punya Centang Biru Mirip Twitter, Bantu Deteksi Email Spam Penipuan",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: "Awalnya perusahaan akan mendapati logonya di badan Gmail-nya ketika mereka memenuhi syarat verifikasi BIMI. Terbaru, pelanggan bakal menerima tanda centang biru yang muncul di email yang dikirimnya." },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: 'Jika centang birunya diklik akan muncul penjelasan “Pengirim email ini telah memverifikasi bahwa mereka pemilik [domain dikirim dari] dan logo di gambar profil."',
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: "Fitur ini tersedia untuk perusahaa yang berlangganan Google Business, Google Workspace, atau G Suite Basic, termasuk untuk akun personal.",
       },
     ],
   },
@@ -556,284 +579,144 @@ export const heroteknonsains = [
 export const herobolansports = [
   {
     id: 1,
-    cover: "../images/hero/hero1.jpg",
+    cover: "../images/bola/ivar.jpg",
     catgeory: "featured",
-    title: "Ini adalah sepakbola terbaik keluarga saya yang diberikan",
-    authorName: "fanfan",
+    title: "Segera Jadi WNI, Ivar Jenner & Struick Bisa Main di Piala Asia?",
+    authorName: "fan fan",
     authorImg: "../images/author.jpg",
-    time: "5 Jun - 2022",
+    time: "5 April - 2023",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     desc: [
       {
-        para1: "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
+        para1: "Ivar Jenner dan Rafael Struick kini akan segera berstatus sebagai warga negara Indonesia (WNI). Ketua Umum PSSI Erick Thohir menyebut, kedua pemain keturunan Indonesia itu akan disumpah menjadi WNI pada pertengahan Mei mendatang.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Ivar dan Struick pun kini berpeluang memperkuat timnas saat tampil di ajang Piala Asia tahun depan. Erick mengatakan, kedua pemain itu akan dijajal kemampuannya saat Indonesia menggelar FIFA matchday pada Juni mendatang. ",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: '"Semua terbuka, karena memang sesuai dengan diskusi saya dengan coach Sin Tae-yong waktu itu bahwa ini kan kita nanti ada FIFA matchday di bulan Juni," kata Erick, Jumat (5/5) malam.',
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Segera Jadi WNI, Ivar Jenner & Struick Bisa Main di Piala Asia?",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: '"Di bulan September, Oktober, November itu kan banyak event besar. Oktober dan November ada kualifikasi Piala Dunia 2026. Lalu kita juga ada Piala Asia [U-20] di September. Lalu ada Asian Games," sambungnya.' },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: "Erick lantas menyampaikan rencananya bersama Shin Tae-yong untuk membuat tim jangka panjang yang berisikan pemain-pemain muda bertalenta. Mereka pun terbuka terhadap para pemain muda berbakat yang mau memperkuat timnas.",
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: '"Nah, kalender ini yang kita tentu siapa pun yang terbaik sesuai dengan klasifikasi ya kita coba dorong sebaik-baik mungkin agar kita punya tim nasional yang konsisten," pungkasnya.',
       },
     ],
   },
   {
     id: 2,
-    cover: "../images/hero/hero2.jpg",
-    catgeory: "bola & sport",
-    title: "Teknonlogi paling besar abad ini",
-    authorName: "alex",
+    cover: "../images/bola/kamboja.jpg",
+    catgeory: "Featured",
+    title: "Menteri Kamboja Minta Maaf soal Bendera Terbalik & Doakan RI Sukses di SEA Games",
+    authorName: "fan fan",
     authorImg: "../images/author.jpg",
-    time: "12 Aug - 2022",
+    time: "2 April - 2023",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     desc: [
       {
-        para1: "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
+        para1: "Menteri Pendidikan Pemuda dan Olahraga Kamboja, Hang Chuon Naron, menyampaikan permintaan maaf terkait insiden bendera Indonesia yang terbalik sebelum upacara pembukaan SEA Games 2023 di Kamboja. Hang Chuon juga mendoakan kesuksesan Merah Putih di ajang ini.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Permohonan maaf itu disampaikan langsung oleh Hang Chuon kepada Menpora Indonesia, Dito Ariotedjo, di Kantor Menteri Pendidikan Pemuda dan Olahraga Kamboja pada Sabtu (6/5) pagi.",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: "“Menteri Pendidikan Pemuda dan Olahraga ingin bertemu untuk mengklarifikasi dan memohon maaf karena atas insiden bendera (Merah Putih) terbalik,” kata Dito dalam keterangan resmi, Sabtu (6/5).",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Menteri Kamboja Minta Maaf soal Bendera Terbalik & Doakan RI Sukses di SEA Games",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: "Dito mengatakan, pemerintah Kamboja sangat menyesali kejadian tersebut. Mereka juga menitipkan permohonan maaf untuk disampaikan kepada seluruh masyarakat Indonesia." },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: '“Beliau (Hang Chuon) meminta maaf kepada seluruh masyarakat Indonesia atas kesalahan yang sudah terjadi kemarin,” ujar Menpora Dito',
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: "Menteri Hang juga menyampaikan bahwa pemerintah Kamboja sangat menyesali insiden bendera Merah Putih yang terpasang terbalik. Dia juga berharap Indonesia bisa sukses dalam ajang SEA Games 2023 Kamboja.",
+      },
+      {
+        para3: '“Saya minta maaf atas adanya insiden kemarin. Saya harap Indonesia akan sukses di SEA Games tahun ini. Indonesia adalah tim yang kuat. Saya harap yang terbaik buat Anda,” ungkap Menteri Hang. Insiden tersebut terjadi jelang Opening Ceremony SEA Games 2023 di Stadion Morodok, Techo, Kamboja, pada Jumat (5/5) lalu. Beberapa penampil mengibarkan bendera Indonesia, namun dalam kondisi terbalik.',
       },
     ],
   },
   {
     id: 3,
-    cover: "../images/hero/hero3.jpg",
-    catgeory: "fashion",
-    title: "dadali manuk pang badagna",
-    authorName: "rina",
-    authorImg: "../images/author.jpg",
-    time: "22 Mar - 2022",
-    desc: [
-      {
-        para1: "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
-      },
-      {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
-      {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
-      },
-    ],
-    details: [
-      {
-        title: "Starting a new company is easy",
-      },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
-      },
-    ],
-  },
-  {
-    id: 4,
-    cover: "../images/hero/hero4.jpg",
-    catgeory: "technology",
-    title: "Emma Watson stands up for Turkish women",
-    authorName: "sunil",
-    authorImg: "../images/author.jpg",
-    time: "08 Dec - 2022",
-    desc: [
-      {
-        para1: "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
-      },
-      {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
-      {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
-      },
-    ],
-    details: [
-      {
-        title: "Starting a new company is easy",
-      },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
-      },
-    ],
-  },
-]
-
-export const herofoodntravel = [
-  {
-    id: 1,
-    cover: "../images/hero/hero1.jpg",
+    cover: "../images/bola/china.jpg",
     catgeory: "featured",
-    title: "bagaimana kalau hari ini kita makan makan",
-    authorName: "fanfan",
+    title: "China Diklaim Bayar Ratusan Miliar demi Hadirkan Argentina, Didukung Wanda Group",
+    authorName: "fan fan",
     authorImg: "../images/author.jpg",
-    time: "5 Jun - 2022",
+    time: "4 April - 2022",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     desc: [
       {
-        para1: "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
+        para1: "Argentina besar kemungkinan akan melawan Timnas China pada FIFA Matchday edisi Juni 2023. Pasalnya, 'Negeri Tirai Bambu' itu dilaporkan memberikan tawaran dana yang berkisar senilai ratusan miliar rupiah.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Sebelumnya, Argentina dirumorkan akan berkunjung ke China dan Indonesia untuk agenda resmi FIFA tersebut. Promotor olahraga, Nine Sport, adalah pihak yang berupaya mendaratkan Lionel Messi cs ke Indonesia.",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: "Arif Putra Wicaksono selaku CEO Nine Sport mengatakan bahwa butuh biaya USD 5 juta (setara Rp 73 miliar) untuk mendatangkan Argentina, tetapi itu adalah harga sebelum mereka jadi juara Piala Dunia 2022. Setelah jadi juara, angkanya kemungkinan akan naik. Arif mengungkapkan China berpeluang besar mendatangkan Argentina. Pasalnya, Wanda Group menawarkan ratusan miliar.",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "China Diklaim Bayar Ratusan Miliar demi Hadirkan Argentina, Didukung Wanda Group",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: 'Wanda Group adalah perusahaan multinasional yang berdiri pada 1988. Wanda Group bergerak di bidang real estate, film, olahraga, dan hiburan anak.'},
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: '"Info terakhir yang saya dapat, kemungkinan besar [Argentina akan] ke China itu match pertama karena China di-back up Wanda Group, bayarnya mahal banget, ratusan miliar," tutur Arif kepada kumparan, Jumat (5/5).'
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
-      },
-    ],
-  },
-  {
-    id: 2,
-    cover: "../images/hero/hero2.jpg",
-    catgeory: "bola & sport",
-    title: "stetelah itu kita liburan",
-    authorName: "alex",
-    authorImg: "../images/author.jpg",
-    time: "12 Aug - 2022",
-    desc: [
-      {
-        para1: "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
+        para2: 'Wanda Group juga sudah lama berkiprah di dunia olahraga. Pada 2015, perusahaan asal China ini membeli 20 persen saham klub Liga Spanyol, Atletico Madrid.',
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
-      {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
-      },
-    ],
-    details: [
-      {
-        title: "Starting a new company is easy",
-      },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
-      },
-    ],
-  },
-  {
-    id: 3,
-    cover: "../images/hero/hero3.jpg",
-    catgeory: "fashion",
-    title: "dadali manuk pang badagna",
-    authorName: "rina",
-    authorImg: "../images/author.jpg",
-    time: "22 Mar - 2022",
-    desc: [
-      {
-        para1: "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
-      },
-      {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
-      {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
-      },
-    ],
-    details: [
-      {
-        title: "Starting a new company is easy",
-      },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para3: "Setahun berikutnya, Wanda Group bekerja sama dengan FIFA untuk menjadi sponsor event internasional hingga 2030. Di tahun yang sama, Wanda Group juga bekerja sama dengan BWF.",
       },
     ],
   },
   {
     id: 4,
-    cover: "../images/hero/hero4.jpg",
-    catgeory: "technology",
-    title: "Emma Watson stands up for Turkish women",
-    authorName: "sunil",
+    cover: "../images/bola/cabor.jpg",
+    catgeory: "featured",
+    title: "Indonesia Sudah Raih 5 Emas di SEA Games, Cabor Sepeda Penyumbang Teranyar",
+    authorName: "fan fan",
     authorImg: "../images/author.jpg",
-    time: "08 Dec - 2022",
+    time: "08 April - 2023",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     desc: [
       {
-        para1: "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
+        para1: "Kontingen Indonesia terus mendulang medali emas di SEA Games 2023. Terkini, Merah Putih sudah mengoleksi lima medali emas dengan cabang olahraga (cabor) sepeda sebagai penyumbang teranyar.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Sayu Bella Dewi berhasil mengalungi medali emas di cabor sepeda nomor MTB Women's Cross Country. Ia mengalahkan wakil Malaysia dan Thailand di final. Sementara itu, Feri Yudoyono mengoleksi emas di cabor sepeda nomor MTB Men's Cross Country.",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: "Selain cabor sepeda, medali emas juga didapatkan dari cabor atletik. Agus Prayogo dan Adekta Naibaho berdiri di podium tertinggi usai masing-masing memenangi nomor maraton putra dan putri.",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Indonesia Sudah Raih 5 Emas di SEA Games, Cabor Sepeda Penyumbang Teranyar",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: "Sementara itu, medali emas perdana Indonesia di SEA Games datang dari cabor triathlon nomor aquathlon individu putra. Rashif Amlia Yaqin mengalahkan Andrew Kim Abay Remolino (Filipina) dan Bryce Sheng Cher Chong (Singapura) di Kep Town Beach, Kamboja, Sabtu pagi (6/5)." },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        quote: "Hingga Sabtu (6/5) pukul 12:15 WIB, Indonesia telah meraih 5 medali emas, 1 perak, dan 5 perunggu.",
       },
     ],
   },
@@ -1298,6 +1181,9 @@ export const music = [
     authorImg: "../images/author.jpg",
     time: "25 June 2023",
     date: "25 June 2023",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     comments: 900,
     desc: "Setiap tahunnya pada 20 April, grup musik Fourtwnty kerap merilis sesuatu sebagai perayaan terhadap eksistensi grup musik ini di hari jadinya. Begitu pula pada 20 April tahun ini.",
     desclengkap: [
@@ -1336,6 +1222,9 @@ export const music = [
     authorImg: "../images/author.jpg",
     time: "25 June 2023",
     date: "25 June 2023",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     comments: 900,
     desc: "Selebgram sekaligus penyanyi Uci Flowdea berbagi catatan menarik seputar perayaan Paskah yang baru saja lewat. Menurutnya, Paskah salah satu momen penting bagi umat Kristen di seluruh dunia.",
     desclengkap: [
@@ -1529,115 +1418,121 @@ export const contentEnter = [
 
   {
     id: 1,
-    cover: "../images/hero/hero1.jpg",
+    cover: "../images/enter/titi.jpg",
     catgeory: "Entertaiment",
-    title: "kamu kalau kaya mau ga anaknya 70892?",
+    title: "Ini Momen yang Ditunggu-tunggu Titi Kamal Tiap Lebaran",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
     time: "25 June 2023",
     date: "25 June 2023",
-    comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
+    comments: 90,
+    desc: "Artis Titi Kamal mengungkapkan momen yang selalu ia tunggu saat Lebaran. Momen ini, kata dia, ada kaitannya dengan sang ibu, Elly Rosniati. ",
     desclengkap: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: "Artis Titi Kamal mengungkapkan momen yang selalu ia tunggu saat Lebaran. Momen ini, kata dia, ada kaitannya dengan sang ibu, Elly Rosniati. ",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: '"Ibumu, ibumu, ibumu. Momen yang ditunggu setiap tahun adalah sungkeman sama mama," tulis Titi Kamal dalam unggahan di akun Instagramnya, Senin (24/4).',
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: "Karena itu, Titi bersyukur karena ibundanya masih diberikan kesehatan oleh Tuhan. Dia pun berharap ibunya bisa selalu diberikan kebahagiaan. ",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Ini Momen yang Ditunggu-tunggu Titi Kamal Tiap Lebaran",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: '"Semoga mama enggak kesepian dan bahagia terus," tulis perempuan 41 tahun ini.' },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: '"Momen begini jadi makin kangen sama almarhum papa. 💖" tulis Titi.',
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: 'Di momen Lebaran, Titi menyampaikan permintaan maaf kepada sang ibu. "Maaf lahir batin mama sayang," tulisnya. Pemain film Makmum ini mengatakan bahwa momen sungkeman dengan sang ibu membuat dirinya merindukan mendiang ayahnya.',
       },
     ],
   },
   {
     id: 2,
-    cover: "../images/hero/hero1.jpg",
+    cover: "../images/enter/virgoun.jpg",
     catgeory: "Entertaiment",
-    title: "kamu kalau kaya mau ga anaknya 70892?",
-    authorName: "fanfan",
+    title: "Tenri Anisa Ngaku Keluarganya Dihujat Usai Ia Dituding Jadi Selingkuhan Virgoun",
+    authorName: "fan fan",
     authorImg: "../images/author.jpg",
     time: "25 June 2023",
     date: "25 June 2023",
-    comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
+    comments: 500,
+    desc: "Sosok Tenri Anisa yang disebut Inara Rusli sebagai penyebab retaknya rumah tangganya bersama Virgoun akhirnya muncul ke publik. Saat menggelar jumpa pers bersama pengacaranya, Tenri menegaskan bahwa dirinya bukanlah seorang pelakor seperti yang dituduhkan oleh istri Virgoun. ",
     desclengkap: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: "Sosok Tenri Anisa yang disebut Inara Rusli sebagai penyebab retaknya rumah tangganya bersama Virgoun akhirnya muncul ke publik. Saat menggelar jumpa pers bersama pengacaranya, Tenri menegaskan bahwa dirinya bukanlah seorang pelakor seperti yang dituduhkan oleh istri Virgoun.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Unggahan Inara soal perselingkuhan suaminya yang menyeret nama Tenri pun berdampak pada keluarga. Hal ini yang akhirnya membuat Tenri geram.",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: '"Awalnya saya pasti marah, tapi yang bikin saya paling marah itu begitu dia menyebut nama ibu saya. Masalahnya ibu saya sampai diserang gitu. Sampai tante saya enggak tahu apa-apa diserang, sampai ada yang bilang ibu saya mati segala macam, dan dibilang tidak bisa mendidik anaknya," ujar Tenri kepada wartawan di kawasan Jakarta Selatan, Selasa (2/5).',
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Tenri Anisa Tegaskan Tak Pernah Berhubungan Badan dengan Virgoun",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: '"Kalian enggak apa-apa hujat saya, tapi tolong jangan bawa-bawa ibu saya. Jangan pernah bilang ibu saya enggak pernah didik saya. Itu aja," sambungnya.' },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: '"Tidak ada hubungan badan antara saya dengan Virgoun sama sekali," tegas Tenri.',
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: "Pengacara Tenri, Milano Lubis, membantah adanya hubungan gelap antara kliennya dengan Virgoun. Hubungan keduanya disebut Milano tak lebih hanya seorang teman. ",
+      },
+      {
+        para3: "Karena itu Milano meminta kepada Virgoun maupun istrinya untuk dapat segera mengklarifikasi pernyataan yang menyebut soal tindak asusila antara kliennya dan Virgoun.",
       },
     ],
   },
   {
     id: 3,
-    cover: "../images/hero/hero1.jpg",
+    cover: "../images/enter/nmixx.jpg",
     catgeory: "Entertaiment",
-    title: "kamu kalau kaya mau ga anaknya 70892?",
-    authorName: "fanfan",
+    title: "NMIXX Udah Gak Sabar Ketemu Penggemar di Jakarta",
+    authorName: "fan fan",
     authorImg: "../images/author.jpg",
     time: "25 June 2023",
     date: "25 June 2023",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
+    desc: "Girl grup besutan JYP Entertainment akan segera menyapa para NSWER—sebutan untuk fan NMIXX—di Indonesia. Kedatangan Lily, Haewon, Sullyoon, Bae, Jiwoo, dan Kyujin ke Indonesia memang dalam rangka showcase tur perdana mereka.",
     desclengkap: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: "Girl grup besutan JYP Entertainment akan segera menyapa para NSWER—sebutan untuk fan NMIXX—di Indonesia. Kedatangan Lily, Haewon, Sullyoon, Bae, Jiwoo, dan Kyujin ke Indonesia memang dalam rangka showcase tur perdana mereka.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Showcase tur yang bertajuk Nice To MIXX You bakal digelar di The Kasablanka Hall pada 9 Juni mendatang. Jelang kedatangannya ke Tanah Air para member pun mengaku sudah tidak sabar untuk bisa bertemu dengan para penggemarnya di Jakarta.",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: '"Kami sudah tidak sabar untuk menghabiskan waktu bersama NSWER Indonesia! Betul sekali! Aku sangat menantikan NSWER, kami tunggu kedatanganmu! Sampai jumpa di acara showcase kami di bulan Juni," kata para member dalam video yang dibagikan pihak promotor konser Mecima Pro di laman Instagram @mecimapro, Kamis (4/5).',
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "NMIXX Udah Gak Sabar Ketemu Penggemar di Jakarta",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: "NMIXX sudah memulai showcase tur-nya pada 2 Mei di Seattle, Amerika Serikat. Ini memang menjadi tur perdana bagi pelantun lagu O.O itu setelah mereka memulai debutnya di 2022." },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: "Ada 12 tempat yang akan disinggahi oleh Lily cs dalam turnya tersebut. Mulai dari Sattle (2 Mei), San Jose (4 Mei), Los Angeles (5 Mei), Dallas (8 Mei), Houston (9 Mei), Atlanta (12 Mei), Washington DC (14 Mei), Brooklyn (16 Mei), Bangkok (4 Juni), Jakarta (9 Juni), Taipei (18 Juni), Singapore (23 Juni), dan Manila (30 Juni).",
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: "Untuk para NSWER yang pengin menyaksikan penampilan idola kalian secara langsung tiketnya masih tersedia, nih. Tiket yang masih tersedia untuk kategori Yellow (A&B), Green, dan Blue.",
+      },
+      {
+        para3: "Untuk kategori Yellow A dibanderol Rp 1.225.000; Yellow B Rp 1.226.000; Green Rp 1.925.000; Blue Rp 2.525.000. Kalian bisa langsung membelinya di laman tiket.com ataupun di laman mecimashop.",
       },
     ],
   },
@@ -1648,115 +1543,124 @@ export const contentBisnis = [
 
   {
     id: 1,
-    cover: "../images/hero/hero1.jpg",
+    cover: "../images/bisnis/bukalapak.jpg",
     catgeory: "Bisnis",
-    title: "kamu kalau kaya mau ga anaknya jago bisnis kaya cina?",
-    authorName: "fanfan",
+    title: "Bukalapak Optimistis Cetak Untung di 2023, Ini Sejumlah Upayanya",
+    authorName: "hadi",
     authorImg: "../images/author.jpg",
     time: "25 June 2023",
     date: "25 June 2023",
-    comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
+    comments: 600,
+    desc: "E-commerce Indonesia, PT Bukalapak.com Tbk (BUKA), menargetkan laba penyesuaian sebelum beban bunga, pajak, penyusutan dan amortisasi (adjusted Earning Before Interest, Taxes, Depreciation, and Amortization/EBITDA) akan berbalik positif pada kuartal IV 2023, yang sebelumnya masih mencatatkan negatif.",
     desclengkap: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: "E-commerce Indonesia, PT Bukalapak.com Tbk (BUKA), menargetkan laba penyesuaian sebelum beban bunga, pajak, penyusutan dan amortisasi (adjusted Earning Before Interest, Taxes, Depreciation, and Amortization/EBITDA) akan berbalik positif pada kuartal IV 2023, yang sebelumnya masih mencatatkan negatif.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: 'Adapun di kuartal I 2023, Bukalapak mencatatkan kerugian Rp 1 triliun, berbalik dari laba bersih Rp 14,54 triliun pada kuartal I 2022. Presiden Bukalapak Teddy Oetomo mengatakan, perusahaan mencatatkan EBITDA senilai negatif Rp 507 miliar pada kuartal I 2023 atau tumbuh 44 persen yoy. Nilai EBITDA tersebut mencapai 22 persen dari guidance 2023.',
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: '“(Rencana keuntungan) pada kuartal IV, saya targetkan selalu dengan adjusted EBITDA kuartal IV. Saya optimistis dan serahkan saja, dengan meneruskan yang sekarang seperti product mix, improvement supply, mitra take rate, specialty vertical, kelihatan ruginya akan menurun terus,” kata Teddy saat ditemui usai Halal Bihalal dengan Media di Kembang Goela Restaurant Jakarta, Kamis (4/5).',
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Bukalapak Optimistis Cetak Untung di 2023, Ini Sejumlah Upayanya",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: "Dalam paparan, Teddy menjelaskan adjusted EBITDA di kuartal II 2023 akan minus Rp 150-Rp 175 miliar, kuartal III minus Rp 125 miliar, dan di kuartal IV akan menjadi positif. Dia juga sempat menyinggung Bukalapak tidak fokus pada rugi bersih, melainkan adjusted EBITDA." },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: '“Bagi saya rugi itu mark to market (fluktuasi waktu ke waktu), makanya ada operational cash flow. Yang kita yang bisa dikendalikan hanya operational performance dan financial performance dari perusahaan. Makanya waktu untung tuh, saya langsung bilang melihat EBITDA,” ujarnya.',
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: "Teddy menekankan adjusted EBITDA dan arus kas mencerminkan kinerja operasional Bukalapak. Perusahaan membukukan rugi operasional senilai Rp 1,17 triliun pada kuartal I 2023 atau mengalami penurunan karena di periode kuartal I 2022, perseroan mendapatkan laba yang substansial dari laba nilai investasi di PT Allo Bank Tbk (BBHI).",
+      },
+      {
+        para3: '“Sebenarnya itu partnership (dengan Allo Bank) baru roll out bukan investasi buat mencari untung. Bisnis mitra Bukalapak adalah bisnis cash, tetapi ke depan Indonesia enggak tahu bakal seperti apa ke depannya. Kita berharap digital financial services jalan. Bisa enggak dengan digital bank kolaborasi dengan mitra, itu mimpi kita,” imbuhnya. Apabila investasi tersebut berhasil, lanjut Teddy, maka infrastruktur perbankan dari mitra Bukalapak akan naik puluhan kali lipat dari jumlah ATM saat ini, sehingga akan membantu inklusi keuangan di Indonesia.',
       },
     ],
   },
   {
     id: 2,
-    cover: "../images/hero/hero1.jpg",
+    cover: "../images/bisnis/cocacola.jpg",
     catgeory: "Bisnis",
-    title: "kamu kalau kaya mau ga anaknya 70892?",
-    authorName: "fanfan",
+    title: "Pungutan Cukai Plastik & Minuman Manis Ditunda? Ini Kata Bea Cukai",
+    authorName: "fan fan",
     authorImg: "../images/author.jpg",
     time: "25 June 2023",
     date: "25 June 2023",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
+    desc: "Direktorat Jenderal Bea dan Cukai (DJBC) buka suara soal penerapan cukai produk plastik dan minuman berpemanis dalam kemasan atau MBDK pada tahun ini.",
     desclengkap: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: "Direktorat Jenderal Bea dan Cukai (DJBC) buka suara soal penerapan cukai produk plastik dan minuman berpemanis dalam kemasan atau MBDK pada tahun ini.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Kasubdit Tarif Cukai dan Harga Dasar Direktorat Teknis dan Fasilitas Cukai Ditjen Bea Cukai Kemenkeu Akbar Harfianto mengungkapkan, pihaknya masih berkoordinasi dengan kementerian terkait untuk mengimplementasika cukai produk plastik.",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: '"Untuk tahap awal ini produk plastik, karen memang yang cukai manis dari DPR belum ada persetujuan," kata Akbar kepada awak media di Hotel Aryaduta, Kamis (4/5).',
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Pungutan Cukai Plastik & Minuman Manis Ditunda? Ini Kata Bea Cukai",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: 'Akbar menjelaskan, proses implementasi cukai plastik akan memperhatikan kondisi ekonomi masyarakat. Artinya, jika kondisi ekonomi masyarakat masih belum stabil, pemerintah akan menunda penerapan cukai plastik ke periode selanjutnya.' },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: "Akbar mengaku terbebani dengan cukai plastik dan MBDK. Sebab, pemerintah sudah menargetkan penerimaan cukai produk plastik dan MBDK sebesar Rp 4,06 triliun dalam APBN 2023.",
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: '"Ini juga menjadi beban untuk pemerintah, sekarang di APBN sudah Rp 4 triliun. Makanya mau nggak mau sudah menjadi tuntutan," terang dia.',
+      },
+      {
+        para3: "Di sisi lain, Akbar memastikan sistem tarif cukai plastik dan MBDK jauh lebih sederhana ketimbang cukai rokok. Hal tersebut bertujuan supaya industri tidak terbebani.",
       },
     ],
   },
   {
     id: 3,
-    cover: "../images/hero/hero1.jpg",
+    cover: "../images/bisnis/telur.jpg",
     catgeory: "Bisnis",
-    title: "kamu kalau kaya mau ga anaknya 70892?",
-    authorName: "fanfan",
+    title: "Harga Terlur Tembus Rp 30.000 per Kg, Mendag: Agar Peternak Tidak Merugi",
+    authorName: "fan fan",
     authorImg: "../images/author.jpg",
     time: "25 June 2023",
     date: "25 June 2023",
-    comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
+    comments: 1900,
+    desc: "Menteri Perdagangan (Mendag) Zulkifli Hasan (Zulhas) menjawab keluhan para pedagang di daerah Timur karena harga telur yang terus melonjak hingga menyentuh lebih dari Rp 30 ribu. Ia mengatakan harga telur tidak boleh turun agar peternak tidak merugi.",
     desclengkap: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: "Menteri Perdagangan (Mendag) Zulkifli Hasan (Zulhas) menjawab keluhan para pedagang di daerah Timur karena harga telur yang terus melonjak hingga menyentuh lebih dari Rp 30 ribu. Ia mengatakan harga telur tidak boleh turun agar peternak tidak merugi.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Zulhas justru mengharuskan para penjual telur untuk menaikkan harga hingga Rp 40 ribu. Bahkan, ia berharap para pedagang dapat menaikkan harga telur hingga sebulan ke depan.",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: '"Kalau telur minta harga turun ya engga boleh saya engga mau, maunya telur harganya naik, memang saya mau harga telur harga naik jangan Rp 26 ribu di Makassar. Kalau Rp 26 ribu, dia belinya Rp 24 ribu, rugi itu. Sekarang sudah Rp 40 ribu per kg. Kalau bisa bertahan sebulan," kata Zulhas di kantor Kemendag, Jakarta, Kamis (4/5).',
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Harga Terlur Tembus Rp 30.000 per Kg, Mendag: Agar Peternak Tidak Merugi",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: "Zulhas tidak mempermasalahkan jika harga telur Rp 40 ribu per kg melebihi batasan Harga Eceran Tertinggi (HET). Keputusan untuk menaikkan harga telur di daerah Timur ini untuk membantu para pedagang yang merugi karena penjualan telur terjun bebas." },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: '"Jadi kalo itu dua minggu Rp 40 ribu, nggak apa-apa lah, ngurang-ngurangn utang-utang kemarin yang tekor. Karena kemarin rugi, banyak yang demo, rugi kemurahan, bukan kemahalan," ungkap Zulhas.',
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: "Ketum PAN itu mengatakan bahwa kenaikan harga ini juga disebabkan oleh minimnya pasokan telur usah Hari Raya Idul Fitri. Selain itu, pengiriman telur menggunakan truk besar masih dilarang untuk mengurangi kemacetan.",
+      },
+      {
+        para3: '"Truk besar kan belum boleh, baru besok boleh. Jadi yang angkut barang-barang besar kan engga boleh. Kalo nggak kan macet. Jadi yang boleh cuma roda empat, roda delapan engga boleh," ungkap Zulhas.',
       },
     ],
   },
@@ -1767,115 +1671,124 @@ export const contentTeknonSains = [
 
   {
     id: 1,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "Tekno & Sains",
-    title: "kamu kalau kaya mau ga anaknya sebanyak bintang?",
+    cover: "../images/tekno/sec.jpg",
+    catgeory: "Tekno",
+    title: "Teknologi Melindungi Data Pribadi",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
-    time: "25 June 2023",
-    date: "25 June 2023",
-    comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
+    time: "25 December 2022",
+    date: "25 December 2022",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
+    comments: 800,
+    desc: "Presiden Joko Widodo telah mengesahkan Undang-Undang (UU) No. 27 Tahun 2022 tentang Perlindungan Data Pribadi (PDP) pada akhir tahun lalu. UU PDP mengatur jenis data pribadi, kewajiban pengendali data pribadi, transfer data pribadi lintas negara, larangan penggunaan data pribadi, dan sanksi bagi pelanggar. ",
     desclengkap: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: "Presiden Joko Widodo telah mengesahkan Undang-Undang (UU) No. 27 Tahun 2022 tentang Perlindungan Data Pribadi (PDP) pada akhir tahun lalu. UU PDP mengatur jenis data pribadi, kewajiban pengendali data pribadi, transfer data pribadi lintas negara, larangan penggunaan data pribadi, dan sanksi bagi pelanggar. ",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "UU ini berlaku bagi perusahaan atau organisasi yang menangani data pribadi konsumen, baik dalam status sebagai pengendali data dan/atau prosesor data.",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: "Bagi kalangan bisnis, langkah ini adalah terobosan dalam penguatan perlindungan, keamanan, dan kedaulatan data, di mana akan mendorong pertumbuhan ekonomi digital yang inklusif. Selain itu, hal ini selaras dengan semangat KTT G20 Bali, di mana para anggotanya bersepakat pentingnya memajukan transformasi digital melalui berbagai cara. Mulai dari mendorong aliran data yang bebas, hingga merangkul seluruh pihak dalam mengatasi tantangan dunia virtual melalui teknologi komputasi awan (cloud computing).",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Teknologi Melindungi Data Pribadi",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: "UU ini memberikan kepastian peran bagi entitas bisnis dalam menyimpan, mengelola, dan memproses data pribadi konsumen. Tentu saja, ada hal penting terutama menegakkan standar keamanan. Sebab, kelalaian dalam pemrosesan data pribadi dapat dikenai sanksi, baik secara administratif, denda, serta pidana." },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: "Hal ini mencerminkan keseriusan pemerintah dalam melindungi hak konsumen atas data pribadinya. Di sisi lain, konsumen percaya dan yakin bahwa hak mereka atas penyimpanan dan penggunaan data mereka dilindungi di bawah payung hukum yang komprehensif. ",
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: "Dari sudut pandang industri dan institusi, beleid ini memberi pedoman dalam menghadirkan kualitas perlindungan yang lebih baik kepada konsumen di Indonesia.",
+      },
+      {
+        para3: "Hal kunci penting, aturan ini mewajibkan operator dan pemrosesan data mengadopsi strategi tata kelola data terbaik. Tujuannya, memantau dan melindungi, bahkan mendesak perusahaan untuk mengerahkan petugas khusus dalam menangani perlindungan data. Harapannya, subjek data akan mendapatkan perlindungan maksimal.",
       },
     ],
   },
   {
     id: 2,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "Tekno & Sains",
-    title: "kamu kalau kaya mau ga anaknya kayak cina?",
-    authorName: "fanfan",
+    cover: "../images/tekno/covid.jpg",
+    catgeory: "Sains",
+    title: "Alasan WHO Nyatakan Covid-19 Bukan lagi 'Darurat Kesehatan Global'",
+    authorName: "fan fan",
     authorImg: "../images/author.jpg",
-    time: "25 June 2023",
-    date: "25 June 2023",
-    comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
+    time: "25 December 2022",
+    date: "25 December 2022",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
+    comments: 90,
+    desc: 'Organisasi Kesehatan Dunia (WHO) menyatakan bahwa Covid-19 bukan lagi "darurat kesehatan global".',
     desclengkap: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: 'Organisasi Kesehatan Dunia (WHO) menyatakan bahwa Covid-19 bukan lagi "darurat kesehatan global". Pernyataan itu merupakan langkah besar untuk mengakhiri pandemi, dan diungkapkan WHO tiga tahun setelah pertama kali menyatakan tingkat kewaspadaan tertinggi terhadap virus tersebut. ',
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Para pejabat WHO mengatakan tingkat kematian akibat virus telah turun dari puncaknya yaitu lebih dari 100.000 orang per minggu pada Januari 2021, menjadi sekitar 3.500 pada 24 April. ",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: "Direktur WHO Tedros Adhanom Ghebreyesus mengatakan setidaknya tujuh juta orang telah meninggal dunia dalam pandemi Covid-19. ",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "'Harapan besar'",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: 'Namun dia mengatakan bahwa angka sebenarnya "kemungkinan" mendekati 20 juta kematian - hampir tiga kali lipat dari perkiraan resmi - dan ia memperingatkan bahwa virus Covid-19 tetap menjadi ancaman yang signifikan. ' },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: '"Kemarin, Komite Darurat bertemu untuk ke-15 kalinya dan merekomendasikan kepada saya agar saya menyatakan berakhirnya [situasi] darurat kesehatan masyarakat yang meresahkan dunia. Saya menerima saran itu. Oleh karena itu dengan harapan besar saya menyatakan bahwa Covid-19 telah berakhir sebagai darurat kesehatan global," kata Dr Tedros. ',
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: "Dia menambahkan bahwa keputusan itu telah dipertimbangkan dengan hati-hati selama beberapa waktu dan dibuat berdasarkan analisis data yang cermat.",
+      },
+      {
+        para3: "Namun dia memperingatkan bahwa penghapusan tingkat siaga tertinggi tidak berarti bahaya sudah berakhir dan mengatakan status darurat dapat dipulihkan jika situasinya berubah. ",
       },
     ],
   },
   {
     id: 3,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "Tekno & Sains",
-    title: "kamu kalau kaya mau ga anaknya 70892?",
+    cover: "../images/tekno/ai.jpg",
+    catgeory: "Tekno",
+    title: "Bisakah ChatGPT Menggeser Peran Guru di Ruang Kelas?",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
-    time: "25 June 2023",
-    date: "25 June 2023",
+    time: "25 Jan 2023",
+    date: "25 Jan 2023",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
+    desc: "ChatGPT adalah singkatan dari Chat Generative Pre-trained Transformer, yaitu sebuah model bahasa alami (NLP). NLP sendiri adalah singkatan dari Natural Language Processing, yang merupakan sebuah cabang dari ilmu komputer dan kecerdasan buatan yang berfokus pada pemahaman, pengolahan, dan bahasa manusia secara alami. ",
     desclengkap: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: "ChatGPT adalah singkatan dari Chat Generative Pre-trained Transformer, yaitu sebuah model bahasa alami (NLP). NLP sendiri adalah singkatan dari Natural Language Processing, yang merupakan sebuah cabang dari ilmu komputer dan kecerdasan buatan yang berfokus pada pemahaman, pengolahan, dan bahasa manusia secara alami. ",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "NLP mencakup berbagai teknik dan algoritma untuk mengubah bahasa manusia menjadi representasi komputasi dan menghasilkan respons atau output yang berarti dalam bentuk bahasa manusia. NLP digunakan dalam berbagai aplikasi, seperti chatbot, penerjemahan bahasa, pengenalan suara, dan banyak lagi. ChatGPT ini dikembangkan oleh OpenAI (Artificial Intelligence) yang dirilis pada tahun 2020.",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: "Dalam perkembangannya ChatGPT ini sudah banyak digunakan oleh para pengguna, sebagaimana diberitakan liputan6.com pengguna ChatGPT per Januari 2023 sudah mencapai 100 juta pengguna. Sebuah perkembangan yang luar biasa melampaui para pengguna tiktok dan aplikasi lainnya, entah itu hanya coba-coba atau memang menggunakan ChatGPT ini untuk keperluan masing-masing.",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Bisakah ChatGPT Menggeser Peran Guru di Ruang Kelas?",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: "Untuk menggunakan ChatGPT ini kita tinggal mengakses https://chat.openai.com/ dan melakukan registrasi sebagaimana kita melakukan registrasi pada aplikasi-aplikasi yang lain. Dan bisa langsung digunakan tanpa harus menunggu berjam-jam atau berhari-hari untuk menggunakannya." },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: "ChatGPT akan merespons dengan cepat setiap pertanyaan-pertanyaan yang kita berikan, walaupun ada beberapa pertanyaan yang secara jujur tidak bisa dijawab oleh ChatGPT yang informasinya minim didapatkan melalui data base dunia internet, atau untuk perkembangan sekarang versi ChatGPT gratis hanya bisa mengakses data sampai tahun 2021 saja.",
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: "Keberadaan ChatGPT ini menjadi ancaman bagi search engine seperti google dan sejenisnya, sehingga mau tidak mau mereka harus mengembangkan hal serupa dan atau memungkinkan bisa lebih canggih dari OpenAI ini.",
+      },
+      {
+        para3: "Bagi guru yang hanya sekadar memberikan pengajaran tentang pengetahuan keilmuan saja, maka sudah bisa dipastikan akan tergerus oleh teknologi ChatGPT ini.",
       },
     ],
   },
@@ -1886,242 +1799,119 @@ export const contentBolanSports = [
 
   {
     id: 1,
-    cover: "../images/hero/hero1.jpg",
+    cover: "../images/bola/mu.jpg",
     catgeory: "Bola",
-    title: "kamu kalau kaya mau ga anaknya cina semua?",
+    title: "Hasil Piala FA: MU Lolos ke Final Usai Tekuk Brighton via Adu Penalti",
     authorName: "fanfan",
     authorImg: "../images/author.jpg",
-    time: "25 June 2023",
-    date: "25 June 2023",
-    comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
+    time: "5 April 2023",
+    date: "5 April 2023",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
+    comments: 2900,
+    desc: "Manchester United berhadapan melawan Brighton & Hove Albion di semifinal Piala FA 2022/23 di Stadion Wembley, London, Minggu (23/4) malam WIB. Hasilnya, MU menang dan maju ke final via babak adu penalti.",
     desclengkap: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: "Manchester United berhadapan melawan Brighton & Hove Albion di semifinal Piala FA 2022/23 di Stadion Wembley, London, Minggu (23/4) malam WIB. Hasilnya, MU menang dan maju ke final via babak adu penalti.",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "MU memainkan David De Gea, Aaron Wan-Bissaka, Luke Shaw, Victor Lindelof, Diogo Dalot, Casemiro, Christian Eriksen, Marcus Rashford, Bruno Fernandes, Antony dan Anthony Martial sebagai starter.",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: "Sementara, starting XI Brighton diisi oleh Robert Sánchez, Pascal Grob, Adam Webster, Lewis Dunk, Pervis Estupinan, Moises Caicedo, Alexis Mac Allister, Solly March, Julio Enciso, Kaoru Mitoma dan Danny Welbeck.",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Hasil Piala FA: MU Lolos ke Final Usai Tekuk Brighton via Adu Penalti",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: "Manchester United bermain di bawah tekanan pada babak pertama. Brighton mampu mendominasi permainan dengan lebih banyak menguasai bola. Brighton juga beberapa kali mampu menciptakan situasi berbahaya. Kendati demikian, kedua tim tetap tak bisa mencetak gol sepanjang 45 menit jalannya babak pertama." },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+        quote: "Di babak kedua, MU masih kesulitan untuk mengembangkan permainan. Sementara, Brighton memiliki beberapa peluang berbahaya yang merepotkan De Gea. Tak ada gol tercipta sehingga laga dilanjutkan ke babak perpanjangan waktu.",
       },
       {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        para2: "Kedua tim memiliki peluang di babak perpanjangan waktu. Namun, baik MU maupun Brighton sama-sama tak mampu memaksimalkan kesempatan itu. Alhasil, pertandingan berlanjut ke babak adu penalti.",
+      },
+      {
+        para3: "Laga ini kemudian dimenangi oleh MU via babak adu penalti dengan skor 7-6. MU memastikan tiket ke final dan akan bertemu dengan Manchester City di partai puncak nanti.",
       },
     ],
   },
   {
     id: 2,
-    cover: "../images/hero/hero1.jpg",
+    cover: "../images/bola/pita.jpg",
+    catgeory: "Bola",
+    title: "Pemain Timnas U-20 Hadiri Aksi Duka 1 Juta Pita Hitam Depan FX Sudirman",
+    authorName: "fan fan",
+    authorImg: "../images/author.jpg",
+    time: "5 April 2023",
+    date: "5 April 2023",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
+    comments: 9000,
+    desc: "Sekumpulan anak muda dari platform anak muda Centennialz membagikan pita hitam ke pejalan kaki di depan trotoar mal FX Sudirman, Jakarta, pada Jumat (31/3) sore WIB, sebagai bentuk simpati kepada Timnas U-20. Dua penggawa 'Garuda Muda', Aditya Arya dan Arkhan Kaka, menyempatkan hadir setelah mendapat undangan terbuka dari media sosial.",
+    desclengkap: [
+      {
+        para1: "Sekumpulan anak muda dari platform anak muda Centennialz membagikan pita hitam ke pejalan kaki di depan trotoar mal FX Sudirman, Jakarta, pada Jumat (31/3) sore WIB, sebagai bentuk simpati kepada Timnas U-20. Dua penggawa 'Garuda Muda', Aditya Arya dan Arkhan Kaka, menyempatkan hadir setelah mendapat undangan terbuka dari media sosial.",
+      },
+      {
+        para2: "Dari pantauan kumparan di lapangan, keduanya datang berjalan ke lokasi aksi dari arah Stadion Utama Gelora Bung Karno. Aditya mengungkapkan kekecewaannya soal pembatalan Indonesia jadi tuan rumah Piala Dunia U-20. Arkhan pun tak jauh beda.",
+      },
+      {
+        para3: '"Mungkin bisa fokus tapi belum pulih seperti awal lagi. Berkat dukungan teman-teman juga, semua sudah mulai membaik, sih," ungkap Adit yang berposisi sebagai kiper itu kepada para wartawan."Sedih dan kecewa juga karena mau piala sebentar lagi terus tiba-tiba batal begitu saja," kata Arkhan yang merupakan striker.',
+      },
+    ],
+    details: [
+      {
+        title: "Pemain Timnas U-20 Hadiri Aksi Duka 1 Juta Pita Hitam Depan FX Sudirman",
+      },
+      { para1: "Acara Aksi Duka 1 Juta Pita Hitam diselenggarakan oleh platform anak muda Centennialz. Chairman Centennialz, Dinno Ardiansyah, mengatakan bahwa aksi ini dibuat untuk menjaga asa dan optimisme para penggawa Timnas U-20." },
+      {
+        quote: '"Kita tahu hari ini para penggawa dari timnas "Garuda" yang akan bertanding tadinya, U-20 ini adalah generasi Z yang merupakan notabene seumuran dengan kita," ujar Dinno kepada wartawan di depan mal FX Sudirman, Jakarta, Jumat (31/3).',
+      },
+      {
+        para2: '"Kita melakukan aksi ini adalah aksi simpati pada Hokky [Caraka], Marselino [Ferdinan], dan kawan-kawan dengan harapan mungkin boleh kita kecewa, mungkin boleh kita sedih sesaat. Tetapi jangan lupa tekad dan optimisme perjuangan harus tetap dijaga," tutupnya.',
+      },
+    ],
+  },
+  {
+    id: 3,
+    cover: "../images/bola/bendera.jpg",
     catgeory: "Sports",
-    title: "kamu kalau kaya mau ga anaknya kayak cina?",
-    authorName: "fanfan",
+    title: "Bendera Indonesia Terbalik saat Pra Upacara Pembukaan SEA Games 2023",
+    authorName: "fan fan",
     authorImg: "../images/author.jpg",
-    time: "25 June 2023",
-    date: "25 June 2023",
+    time: "5 April 2023",
+    date: "5 April 2023",
+    fb: "https://web.facebook.com/firgiawann2/",
+    twitter: "https://twitter.com/",
+    ig: "https://instagram.com/fanfanfw",
     comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
+    desc: "Terjadi insiden bendera Indonesia dipasang terbalik jelang pembukaan SEA Games 2023 di Stadion Morodok, Phnom Penh, Kamboja, pada jumat (5/5).",
     desclengkap: [
       {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
+        para1: "Terjadi insiden bendera Indonesia dipasang terbalik jelang pembukaan SEA Games 2023 di Stadion Morodok, Phnom Penh, Kamboja, pada jumat (5/5).",
       },
       {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+        para2: "Insiden tersebut terjadi dalam segmen Pre Show Entertainment atau pra Pembukaan SEA Games 2023. Dalam pantauan kumparan melalui  live streaming YouTube Press OCM, beberapa penampil terlihat mengibarkan bendera Merah Putih.",
       },
       {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+        para3: "Namun, bendera tersebut terbalik dengan bagian putih di atas, sementara bagian merah di bawah. Setidaknya terlihat ada tiga bendera Indonesia dalam posisi terbalik.",
       },
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Bendera Indonesia Terbalik saat Pra Upacara Pembukaan SEA Games 2023",
       },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
+      { para1: "Penampil lain terlihat mengibarkan bendera berwarna merah putih. Namun, setelah dilihat, bendera tersebut adalah bendera Singapura." },
       {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
-      },
-    ],
-  },
-  {
-    id: 3,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "Bola",
-    title: "kamu kalau kaya mau ga anaknya 70892?",
-    authorName: "fanfan",
-    authorImg: "../images/author.jpg",
-    time: "25 June 2023",
-    date: "25 June 2023",
-    comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
-    desclengkap: [
-      {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
-      },
-      {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
-      {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
-      },
-    ],
-    details: [
-      {
-        title: "Starting a new company is easy",
-      },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
+        quote: "SEA Games 2023 resmi dimulai per Jumat (5/5) ini dan akan ditutup pada 17 Mei mendatang. Indonesia menurunkan 599 atlet yang akan berlaga di 31 cabang olahraga.",
       },
     ],
   },
 
 ]
-export const contentFoodnTravel = [ 
 
-  {
-    id: 1,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "Food",
-    title: "kamu kalau kaya mau ga anaknya cina semua?",
-    authorName: "fanfan",
-    authorImg: "../images/author.jpg",
-    time: "25 June 2023",
-    date: "25 June 2023",
-    comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
-    desclengkap: [
-      {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
-      },
-      {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
-      {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
-      },
-    ],
-    details: [
-      {
-        title: "Starting a new company is easy",
-      },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
-      },
-    ],
-  },
-  {
-    id: 2,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "Travel",
-    title: "kamu kalau kaya mau ga anaknya kayak cina?",
-    authorName: "fanfan",
-    authorImg: "../images/author.jpg",
-    time: "25 June 2023",
-    date: "25 June 2023",
-    comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
-    desclengkap: [
-      {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
-      },
-      {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
-      {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
-      },
-    ],
-    details: [
-      {
-        title: "Starting a new company is easy",
-      },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
-      },
-    ],
-  },
-  {
-    id: 3,
-    cover: "../images/hero/hero1.jpg",
-    catgeory: "Food",
-    title: "kamu kalau kaya mau ga anaknya 70892?",
-    authorName: "fanfan",
-    authorImg: "../images/author.jpg",
-    time: "25 June 2023",
-    date: "25 June 2023",
-    comments: 900,
-    desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.",
-    desclengkap: [
-      {
-        para1: "lorem ipsum dolor sit amet, consectetur adip",
-      },
-      {
-        para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
-      },
-      {
-        para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
-      },
-    ],
-    details: [
-      {
-        title: "Starting a new company is easy",
-      },
-      { para1: "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago." },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: "In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.",
-      },
-    ],
-  },
-
-]
-  /*<p>Busan is an amazing magazine Blogger theme that is easy to customize for your needs</p>
-  <p>Google To Boost Android Security In Few Days</p>
-  <p>Cespedes play the winning Baseball Game</p>
-  <p>US Promises to give Intel aid to locate the soldiers</p>
-
-*/
 

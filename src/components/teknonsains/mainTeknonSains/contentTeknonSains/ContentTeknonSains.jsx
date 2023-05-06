@@ -25,7 +25,7 @@ const ContentTeknonSains = () => {
         <div className='content'>
         <Slider {...settings}>
             {contentTeknonSains
-              .filter((val) => val.catgeory === "Tekno & Sains")
+              .filter((val) => val.catgeory === "Tekno & Sains" || val.catgeory === "Tekno" || val.catgeory === "Sains")
               .map((val) => {
                 return (
                   <div className='items'>
